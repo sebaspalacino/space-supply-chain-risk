@@ -2,7 +2,7 @@
 
 A data pipeline and interactive dashboard that extracts, classifies, and visualizes supply chain risk signals from SEC 10-K filings for major space industry companies.
 
-Built as part of a graduate research project at the University of Texas.
+Built as part of a graduate research project.
 
 ---
 
@@ -183,5 +183,4 @@ Then open [http://localhost:8501](http://localhost:8501) in your browser.
 ## 👤 Author
 
 Sebastian Palacino  
-Graduate Student, University of Texas  
-Supply Chain Management Research Project — 2025
+Supply Chain Management Research Project — 2026
