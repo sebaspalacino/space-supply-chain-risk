@@ -1,0 +1,234 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2025
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from to
+Commission file number 1-442
+THE BOEING COMPANY
+(Exact name of registrant as specified in its charter)
+Delaware
+91-0425694
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+929 Long Bridge Drive
+Arlington,
+VA
+22202
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code (703)-465-3500
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $5.00 Par Value
+BA
+New York Stock Exchange
+Depositary Shares, each representing a 1/20th interest in a share of 6.00% Series A Mandatory Convertible Preferred Stock, $1.00 Par Value
+BA-PRA
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒ No ☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☒
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to § 240.10D-1(b).☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+As of June 30, 2025, there were 755,623,105 shares of common stock outstanding held by non-affiliates of the registrant, and the aggregate market value of the shares of common stock (based upon the closing price of these shares on the New York Stock Exchange) was approximately $158.3 billion.
+The number of shares of the registrant’s common stock outstanding as of January 23, 2026 was 785,347,096.
+DOCUMENTS INCORPORATED BY REFERENCE
+Part III incorporates information by reference to the registrant’s definitive proxy statement, to be filed with the Securities and Exchange Commission within 120 days after the close of the fiscal year ended December 31, 2025.
+Table of Contents
+THE BOEING COMPANY
+Index to the Form 10-K
+For the Fiscal Year Ended December 31, 2025
+PART I
+Page
+Item 1.
+Business
+1
+Item 1A.
+Risk Factors
+6
+Item 1B.
+Unresolved Staff Comments
+19
+Item 1C.
+Cybersecurity
+19
+Item 2.
+Properties
+22
+Item 3.
+Legal Proceedings
+22
+Item 4.
+Mine Safety Disclosures
+22
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+23
+Item 6.
+[Reserved]
+23
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+24
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+52
+Item 8.
+Financial Statements and Supplementary Data
+53
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+128
+Item 9A.
+Controls and Procedures
+128
+Item 9B.
+Other Information
+128
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+129
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+130
+Item 11.
+Executive Compensation
+133
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+134
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+135
+Item 14.
+Principal Accountant Fees and Services
+135
+PART IV
+Item 15.
+Exhibits, Financial Statement Schedules
+135
+Item 16.
+Form 10-K Summary
+139
+Signatures
+140
+Table of Contents
+PART I
+Item 1. Business
+The Boeing Company, together with its subsidiaries (herein referred to as “Boeing,” the “Company,” “we,” “us,” “our”), is one of the world’s major aerospace firms.
+We are organized based on the products and services we offer. We operate in three reportable segments:
+•
+Commercial Airplanes (BCA);
+•
+Defense, Space & Security (BDS);
+•
+Global Services (BGS).
+Commercial Airplanes Segment
+This segment develops, produces and markets commercial jet aircraft principally to the commercial airline industry worldwide. We are a leading producer of commercial aircraft and offer a family of commercial jetliners designed to meet a broad spectrum of global passenger and cargo requirements of airlines. This family of commercial jet aircraft in production includes the 737 narrow-body model and the 767, 777 and 787 wide-body models. Development continues on the 777X program and the 737-7 and 737-10 derivatives.
+Defense, Space & Security Segment
+This segment engages in the research, development, production and modification of manned and unmanned military aircraft and weapons systems for strike, surveillance and mobility, including fighter and trainer aircraft; vertical lift, including rotorcraft and tilt-rotor aircraft; and commercial derivative aircraft, including anti-submarine and tanker aircraft. In addition, this segment engages in the research, development, production and modification of the following products and related services: strategic defense and intelligence systems, including strategic missile and defense systems, command, control, communications, computers, intelligence, surveillance and reconnaissance, cyber and information solutions, and intelligence systems, satellite systems, including government and commercial satellites and space exploration.
+Global Services Segment
+This segment provides services to our commercial and defense customers worldwide. Global Services sustains aerospace platforms and systems with a full spectrum of products and services, including supply chain and logistics management, engineering, maintenance and modifications, upgrades and conversions, spare parts, pilot and maintenance training systems and services, technical and maintenance documents, and digital solutions and analytics.
+Intellectual Property
+We own numerous patents and have licenses for the use of patents owned by others, which relate to our products and their manufacture. In addition to owning a large portfolio of intellectual property, we also license intellectual property to and from third parties. For example, the U.S. government has licenses in our patents that are developed in performance of government contracts, and it may use or authorize others to use the inventions covered by such patents for government purposes. Unpatented research, development and engineering skills, as well as certain trademarks, trade secrets and other intellectual property rights, also make an important contribution to our business. While our intellectual
+1
+Table of Contents
+property rights in the aggregate are important to the operation of each of our businesses, we do not believe that our business would be materially affected by the expiration of any particular intellectual property right or termination of any particular intellectual property patent license agreement.
+Human Capital
+As of December 31, 2025, Boeing’s total workforce was approximately 182,000 with 14% located outside of the U.S.
+As of December 31, 2025, our workforce included approximately 72,000 union members. As of December 31, 2025, we had 32 independent agreements with nine different unions in the U.S., and we had agreements with 18 employee representative bodies internationally. Information about our principal collective bargaining agreements is set forth in the following table:
+Union
+% of Total Workforce
+Major Agreements with Union
+Principal Location
+Expiration Date
+The International Association of Machinists and Aerospace Workers (IAM)
+25%
+IAM District 70
+Kansas
+June 2027
+IAM District 751
+Washington
+September 2028
+IAM District 837
+Missouri
+July 2030
+The Society of Professional Engineering Employees in Aerospace (SPEEA)
+11%
+SPEEA Professional
+Kansas
+January 2026
+SPEEA Technical
+Washington
+October 2026
+SPEEA Professional
+Washington
+October 2026
+SPEEA Technical
+Kansas
+December 2028
+The United Automobile, Aerospace and Agricultural Implement Workers of America (UAW)
+1%
+UAW Local 952
+Oklahoma
+January 2026
+UAW Local 1069
+Pennsylvania
+April 2027
+During 2024, employees represented by IAM District 751, which represents over 30,000 Boeing manufacturing employees primarily located in Washington state, went out on strike for 53 days, halting production of most of our commercial aircraft and certain of our Defense, Space & Security products, and materially adversely impacting our business and financial position. During 2025, employees represented by IAM District 837, which represents approximately 3,200 employees at our St. Louis area sites, went out on strike for 101 days, disrupting our St. Louis operations and impacting programs including F/A-18, F-15, T-7A, MQ-25 and Weapons. We may experience additional work stoppages in the future, which could materially adversely affect our business, financial position, results of operations and cash flows and result in the diversion of management’s attention from other ongoing business concerns.
+For information on risks related to our human capital, see “Risks Related to Our Business and Operations” in Item 1A. Risk Factors.
+We are committed to creating a work environment where every teammate around the world can perform at their best and grow their careers while supporting our company’s mission to protect, connect and explore our world and beyond. During 2025, we continued to make progress in our culture transformation, including through launching our new Values and Behaviors, revising our performance management system to hold employees accountable not only for what they achieve but for how they achieve it, and enhancing training and leadership development programs. Our compensation program is designed to attract, reward and retain the best-qualified talent with competitive compensation and benefits, including healthcare, paid time off, parental leave, retirement benefits, tuition assistance, employee skills and leadership development programs, and mental and physical well-being programs.
+2
+Table of Contents
+We also invest in rewarding performance and have established a multi-level recognition program to acknowledge the achievements of excellent individual or team performance.
+We support our employees’ continuous development of professional, technical and leadership skills through access to digital learning resources and partnerships with leading professional/technical societies and organizations around the world. In 2025, Boeing employees completed approximately 5.8 million hours of learning and approximately 12,000 Boeing employees leveraged our tuition assistance program to pursue degrees, professional certificates and individual courses in strategic fields of study.
+Safety, quality, integrity and sustainability are at the core of how Boeing operates. We aspire to achieve zero workplace injuries and provide a safe, open and accountable work environment for our employees. Employees are required on an annual basis to sign the Boeing Code of Conduct to reaffirm their commitment to do their work in a compliant and ethical manner. Additionally, we continue to focus on creating a culture where all employees feel empowered to speak up and provide multiple channels for all employees to ask for guidance and report concerns, including those related to ethics, safety or quality. We address employee concerns and take appropriate actions that uphold our Boeing values.
+Competition
+The commercial jet aircraft market and the airline industry remain extremely competitive. BCA faces aggressive international competitors who are intent on increasing their market share, such as Airbus and entrants from China. We are focused on improving our products and processes and continuing cost reduction efforts. We intend to continue to compete with other aircraft manufacturers by providing customers with airplanes and services that deliver superior design, safety, quality, efficiency and value to customers around the world.
+BDS faces strong competition primarily from General Dynamics Corporation, Lockheed Martin Corporation, Northrop Grumman Corporation, RTX Corporation and SpaceX. Non-U.S. companies such as BAE Systems and Airbus Group continue to build a strategic presence in the U.S. market by strengthening their North American operations and partnering with U.S. defense companies. In addition, certain competitors have occasionally formed teams with other competitors to address specific customer requirements. BDS expects the trend of strong competition to continue into 2026.
+The commercial and defense services markets are extremely challenging and are made up of many of the same strong U.S. and non-U.S. competitors facing BCA and BDS along with other competitors in those markets. BGS leverages our extensive services network offering products and services which span the life cycle of our defense and commercial aircraft programs: training, fleet services and logistics, maintenance and engineering, modifications and upgrades, as well as the daily cycle of gate-to-gate operations. BGS expects the market to remain highly competitive in 2026, and intends to grow market share by leveraging a high level of customer satisfaction and productivity.
+Regulatory Matters
+Our businesses are heavily regulated in most of our markets. We work with numerous U.S. government agencies and entities, including but not limited to, all of the branches of the U.S. military, the National Aeronautics and Space Administration (NASA), the Federal Aviation Administration (FAA) and the Department of Homeland Security. Similar government authorities exist in our non-U.S. markets.
+Government Contracts.
+The U.S. government, and other governments, may terminate any of our government contracts at their convenience, as well as for default based on our failure to meet specified performance requirements. If any of our U.S. government contracts were to be terminated for convenience, we generally would be entitled to receive payment for work completed and allowable termination or cancellation costs. If any of our government contracts were to be terminated for default,
+3
+Table of Contents
+generally the U.S. government would pay only for the work that has been accepted and could require us to pay the difference between the original contract price and the cost to re-procure the contract items, net of the work accepted from the original contract. The U.S. government can also hold us liable for damages resulting from the default.
+Commercial Aircraft.
+In the U.S., our commercial aircraft products are required to comply with FAA regulations governing production and quality systems, airworthiness and installation approvals, repair procedures and continuing operational safety. For example, as a result of the 737-9 door plug accident in January 2024, the FAA investigated the 737 quality control system, including Spirit AeroSystems Holdings, Inc. (Spirit), and increased its oversight of our production and quality and safety management systems. The 737 program may only increase production rates and/or implement new production lines with the concurrence of the FAA
+.
+New aircraft models and new derivative aircraft are required to obtain FAA certification prior to entry into service. Outside the U.S., similar requirements exist for airworthiness, installation and operational approvals. These requirements are generally administered by the national aviation authorities of each country and, in the case of Europe, coordinated by the European Union Aviation Safety Agency.
+Environmental.
+We are subject to various federal, state, local and non-U.S. laws and regulations relating to environmental protection, including the utilization, discharge, treatment, storage, disposal and remediation of hazardous substances and wastes. We could also be affected by laws and regulations relating to climate change, including laws limiting or otherwise related to greenhouse gas emissions. These laws and regulations could lead to increased environmental compliance expenditures, increased energy and raw materials costs and new and/or additional investment in designs and technologies. We continually assess our compliance status and management of environmental matters to monitor compliance with applicable environmental laws and regulations. Investigation, remediation and operation and maintenance costs associated with environmental compliance and management of sites are a normal, recurring part of our operations. These costs often are allowable costs under our contracts with the U.S. government. It is reasonably possible that costs incurred to ensure continued environmental compliance could have a material impact on our results of operations, financial condition or cash flows if additional work requirements or more stringent clean-up standards are imposed by regulators, new areas of soil, air and groundwater contamination are discovered and/or expansions of work scope are prompted by the results of investigations. For additional information relating to environmental contingencies, see Note 15 to our Consolidated Financial Statements.
+Non-U.S. Sales.
+Our non-U.S. sales are subject to both U.S. and non-U.S. governmental regulations and procurement policies and practices, including regulations relating to import-export control, tariffs, investment, exchange controls, anti-corruption and repatriation of earnings. Non-U.S. sales are also subject to varying currency, political and economic risks.
+Raw Materials, Parts and Subassemblies
+We are highly dependent on the availability and quality of essential materials, parts and subassemblies from our suppliers and subcontractors. The most important raw materials required for our aerospace products are aluminum (sheet, plate, forg

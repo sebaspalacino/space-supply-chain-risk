@@ -1,0 +1,246 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________________
+FORM 10-K
+☒ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the Fiscal Year Ended December 31, 2025
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _____ to _____
+Commission File Number:
+001-38202
+____________________________
+Virgin Galactic Holdings, Inc.
+(Exact name of registrant as specified in its charter)
+__________________________
+Delaware
+(State or other jurisdiction of
+incorporation or organization)
+85-3608069
+(I.R.S. Employer
+Identification Number)
+1700 Flight Way
+Tustin, California
+(Address of principal executive offices)
+92782
+(Zip Code)
+(949) 774-7640
+(Registrant’s telephone number, including area code)
+__________________________
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common stock, $0.0001 par value per share
+SPCE
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act:
+None
+__________________________
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☐ No
+☒
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No
+☒
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☒
+As of June 30, 2025, the last business day of the registrant’s most recently completed second fiscal quarter, the aggregate market value of the voting common stock held by non-affiliates, computed by reference to the closing sales price of $2.73 reported on The New York Stock Exchange, was approximately $147.6 million.
+As of March 23, 2026, there were 81,408,715 shares of the registrant’s common stock, $0.0001 par value per share, issued and outstanding.
+____________________________
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s definitive proxy statement relating to its annual meeting of stockholders to be held in 2026 (the “2026 Annual Meeting”), to be filed with the Securities and Exchange Commission (the “SEC”) within 120 days after the end of the fiscal year to which this Annual Report on Form 10-K relates, are incorporated herein by reference where indicated. Except with respect to information specifically incorporated by reference in this Annual Report on Form 10-K, such proxy statement is not deemed to be filed as part hereof.
+Table of Contents
+VIRGIN GALACTIC HOLDINGS, INC.
+TABLE OF CONTENTS
+Page No.
+Cautionary Note Regarding Forward-Looking Statements
+2
+Risk Factor Summary
+3
+Part I
+Item 1. Business
+4
+Item 1A. Risk Factors
+22
+Item 1B. Unresolved Staff Comments
+48
+Item 1C. Cybersecurity
+48
+Item 2. Properties
+49
+Item 3. Legal Proceedings
+49
+Item 4. Mine Safety Disclosures
+49
+Part II
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+50
+Item 6. [Reserved]
+50
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+51
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk
+59
+Item 8. Financial Statements and Supplementary Data
+59
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+59
+Item 9A. Controls and Procedures
+59
+Item 9B. Other Information
+59
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+59
+Part III
+Item 10. Directors, Executive Officers and Corporate Governance
+60
+Item 11. Executive Compensation
+60
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+60
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+60
+Item 14. Principal Accountant Fees and Services
+60
+Part IV
+Item 15. Exhibits and Financial Statement Schedules
+61
+Item 16. Form 10-K Summary
+65
+Signatures
+66
+Index to Consolidated Financial Statements and Supplementary Data
+F- 1
+1
+Table of Contents
+Cautionary Note Regarding Forward-Looking Statements
+This Annual Report on Form 10-K contains forward-looking statements (including within the meaning of the Private Securities Litigation Reform Act of 1995) concerning us and other matters. These statements may discuss goals, intentions and expectations as to future plans, trends, events, results of operations or financial condition, or otherwise, based on current beliefs of management, as well as assumptions made by, and information currently available to management.
+Forward-looking statements may be accompanied by words such as “achieve,” “anticipate,” “believe,” “can,” “continue,” “could,” “estimate,” “expect,” “future,” “grow,” “increase,” “intend,” “may,” “opportunity,” “plan,” “possible,” “potential,” “predict,” “project,” “should,” “strategy,” “target,” “will,” “would,” or similar words, phrases, or expressions. These forward-looking statements are subject to various risks and uncertainties, many of which are outside our control. Therefore, you should not place undue reliance on such statements. Factors that could cause actual results to differ materially from those in the forward-looking statements include, but are not limited to, the following:
+•
+any delay in future commercial flights of our spaceflight fleet;
+•
+our ability to successfully develop and test our next-generation vehicles, and the time and costs associated with doing so;
+•
+the safety of our spaceflight systems;
+•
+the development of the markets for commercial spaceflight and commercial research and development payloads;
+•
+our ability to effectively market and sell spaceflights;
+•
+our ability to convert our backlog or inbound inquiries into revenue;
+•
+our anticipated full passenger capacity;
+•
+our ability to achieve or maintain profitability;
+•
+delay in development or the manufacture of spaceflight systems;
+•
+our ability to supply our technology to additional market opportunities;
+•
+our expected capital requirements, the availability of additional financing and our ability to continue as a going concern;
+•
+our ability to attract or retain highly qualified personnel;
+•
+the
+effect of terrorist activity,
+armed conflict, natural disasters or pandemic diseases on the economy generally, on our future financial or operational results, or our access to additional financing;
+•
+consumer preferences and discretionary purchasing activity, which can be significantly adversely affected by unfavorable economic or market conditions;
+•
+extensive and evolving government regulation that impact the way we operate, including the potential negative effects of changes in United States tariff and import/export regulations;
+•
+risks associated with international expansion;
+•
+our expectations regarding the resolution of certain legal proceedings, including anticipated settlement amounts and timing, which may be subject to change based on various factors, including court approvals and negotiations with involved parties;
+•
+our ability to maintain effective internal control over financial reporting and disclosure and procedures; and
+•
+our ability to continue to use, maintain, enforce, protect and defend our owned and licensed intellectual property, including the Virgin brand.
+2
+Table of Contents
+Additional factors that may cause actual results to differ materially from current expectations include, among other things, those set forth in Part I, Item 1A. “Risk Factors” and Part II, Item 7. “Management’s Discussion and Analysis of Financial Condition and Results of Operations” below and for the reasons described elsewhere in this Annual Report on Form 10-K. Although we believe that the expectations reflected in the forward-looking statements are reasonable, our information may be incomplete or limited, and we cannot guarantee future results. Except as required by law, we assume no obligation to update or revise these forward-looking statements for any reason, even if new information becomes available in the future.
+Each of the terms the “Company,” “Virgin Galactic,” “we,” “our,” “us” and similar terms used herein refer collectively to Virgin Galactic Holdings, Inc., a Delaware corporation, and its consolidated subsidiaries, unless otherwise stated.
+Risk Factor Summary
+Your investment in our common stock will involve certain risks. Set forth below is only a summary of the principal risks associated with an investment in our common stock. You should consider carefully the following discussion of risks, as well as the discussion of risks included in this annual report, before you decide that an investment in our common stock is appropriate for you.
+•
+We have incurred significant losses since inception, we expect to incur losses in the future and we may not be able to achieve or maintain profitability.
+•
+The success of our business will be highly dependent on our ability to effectively market and sell spaceflights.
+•
+The market for commercial spaceflight is still emerging and may not achieve the growth potential we expect or may grow more slowly than expected.
+•
+Delays in the development of our next-generation spaceships would adversely impact our business, financial condition and results of operations.
+•
+Any inability to operate our spaceflight systems at our anticipated flight rate could adversely impact our business, financial condition and results of operations.
+•
+Unsatisfactory safety performance of our spaceflight systems or security incidents at our facilities could have a material adverse effect on our business, financial condition and results of operations.
+•
+Any delays in the manufacture, production and commercialization of additional spaceflight systems, including our next-generation spaceships and launch vehicles, may adversely impact our business, financial condition and results of operations.
+•
+We will require substantial additional funding to finance our operations, but adequate additional financing may not be available when we need it, on acceptable terms or at all. Management has concluded that there are conditions present in the aggregate that raise substantial doubt about our ability to continue as a going concern.
+•
+Failure of third-party contractors could adversely affect our business.
+•
+Our investments in developing new offerings and technologies and exploring the application of our existing proprietary technologies for other uses and those offerings, technologies or opportunities may never materialize.
+•
+The “Virgin” brand is not under our control, and negative publicity related to the Virgin brand name could materially adversely affect our business.
+•
+If we fail to adequately protect our proprietary intellectual property rights, our competitive position could be impaired and we may lose valuable assets, generate reduced revenue and incur costly litigation to protect our rights.
+•
+Failure to comply with a wide variety of extensive and evolving government laws and regulations could have a material adverse effect on our business.
+•
+Virgin Investments Limited has significant ability to control the direction of our business, which may prevent you and other stockholders from influencing significant decisions.
+•
+Changes to United States tariff and import/export regulations may have a negative effect on us.
+3
+Table of Contents
+Part I
+Item 1. Business.
+Overview
+Virgin Galactic is an aerospace and space travel company, pioneering human-first spaceflight for private individuals, researchers, and government agencies with its advanced and highly re-useable spaceships and high-altitude carrier aircraft. Built on the foundation of 20 years of experience, we are making human spaceflight repeatable and, therefore, more accessible for individuals. We are at the vanguard of a new industry dedicated to advancing human progress, innovation, understanding and collaboration through the transformative power of space travel. This industry is growing dramatically due to new products, new sources of private and government funding, and new technologies. Demand is emerging from new sectors and demographics, which we believe is broadening the total addressable market. We have embarked on this journey with a mission to put humans and research experiments into space and return them safely to Earth at an unprecedented frequency, with an industry-leading cost structure, and with the goal of driving scale and profitability with our next-generation vehicles.
+We offer access to space for private individuals, researchers and government agencies. Our missions include flying passengers to space, as well as flying scientific payloads and researchers to space in order to conduct experiments for scientific and educational purposes. Our operations include the design and development, manufacturing, ground and flight testing, spaceflight operation, and post-flight maintenance of our spaceflight system. Our spaceflight system was developed using our proprietary technology and processes and is focused on providing space travel experiences for private astronauts, autonomous research flight opportunities and human-tended research flights. We have also leveraged our knowledge and expertise in manufacturing spaceships to occasionally perform engineering services for third parties.
+We offer our customers a unique, human-first, spaceflight journey designed around each individual to maximize the transformative power of space travel, which includes a multi-day experience culminating in a spaceflight with several minutes of weightlessness and views of Earth from space. Our elegant and distinctive spaceflight system – which takes off and lands on a runway – has been designed for a superior astronaut experience, optimal safety and comfort. As part of our commercial operations, we have exclusive access to the Gateway to Space facility at Spaceport America located in New Mexico. Spaceport America is the world’s first purpose-built commercial spaceflight launch site and training facility and is the base of our commercial spaceline operations. We believe the site provides us with a competitive advantage as it has a desert climate with relatively predictable weather conditions preferable to support our spaceflights, and it also has airspace that is restricted for surrounding general commercial air traffic.
+In December 2018, we made history by flying our spaceship, VSS Unity, to space from Mojave, California. This represented the first flight of our spaceflight system, which was built to take humans into space routinely and safely, and designed with superior astronaut experience in mind. After relocating our operations to Spaceport America, we conducted the first flight to space from the state of New Mexico in May 2021. This flight also completed the data submission to the Federal Aviation Administration (“FAA”), resulting in the approval for the expansion of our commercial space transportation operator license to allow for the carriage of spaceflight participants. This marked the first time the FAA licensed a spaceline to fly customers and was further validation of the inherent safety of our system.
+In July 2021 we completed the Unity-22 mission, the first spaceflight with a full crew of four mission specialists in the cabin, including our Founder, Sir Richard Branson.
+In June 2023,
+‘
+Galactic 01,
+’
+marked the start of commercial service. This flight was a dedicated research mission funded by the Italian government, which tested 13 experiments and demonstrated our ability to use suborbital spaceflights to train astronauts for future orbital missions. ‘
+Galactic 05
+’
+and ‘
+Galactic 07
+’
+were also commercial research missions. These flights, along with the research experiments that were conducted on our previous test flights to space, demonstrated the capability of our spaceflight system to provide a groundbreaking research platform to researchers.
+In January 2024,
+‘
+Galactic 06
+’
+marked the completion of our sixth commercial spaceflight in six months – a launch rate to space of a single vehicle that is both unprecedented and record-breaking. In June 2024, we completed our seventh commercial spaceflight, ‘
+Galactic 07.
+’
+This marked the final commercial flight for our initial spaceship, VSS Unity.
+4
+Table of Contents
+We are currently developing our next-generation spaceflight vehicles, which include our next-generation spaceships and launch vehicles, both of which we expect will allow us to increase our annual flight rate. We expect to commence test flights of our next-generation spaceships in the third quarter of 2026, in advance of restarting commercial service which is expected to occur in the fourth quarter of 2026 with a research flight. We expect private astronaut spaceflights to commence six to eight weeks after our first commercial spaceflight. We recently completed an upgrade program for our current launch vehicle, which is now capable of flying on successive days, supporting our plan to ramp commercial service in 2027 to an average availability of three flights a week and enabling us to deliver a targeted rate of 125 space missions per year with our first two spaceships.
+We believe the market for commercial human spaceflight is significant and untapped. As of December 31, 2025, we have reservations for spaceflights for approximately 675 future astronauts, which represent approximately $188 million in expected future spaceflight revenue upon completion of the spaceflights. Each ticket purchased delivers a unique, human-first spaceflight journey designed around each individual to maximize the transformative power of space travel. This includes a multi-day experience consisting of a comp

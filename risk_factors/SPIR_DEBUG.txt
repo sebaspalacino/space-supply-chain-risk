@@ -1,0 +1,281 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-K
+(Mark One)
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended
+December 31
+,
+2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 FOR THE TRANSITION PERIOD FROM TO
+Commission File Number
+001-39493
+SPIRE GLOBAL, INC.
+(Exact name of Registrant as specified in its Charter)
+Delaware
+85-1276957
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+8000 Towers Crescent Drive
+Suite 1100
+Vienna
+,
+Virginia
+22182
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (
+202
+)
+301-5127
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading
+Symbol(s)
+Name of each exchange on which registered
+Class A common stock, par value of $0.0001 per share
+SPIR
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. YES ☐
+No
+☒
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act.
+Yes
+☐
+No
+☒
+Indicate by check mark whether the Registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ NO ☐
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files).
+Yes
+☒ NO ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☐
+Non-accelerated filer
+☒
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). YES ☐ NO
+☒
+The aggregate market value of the common stock held by non-affiliates of the Registrant on June 30, 2025, the last business day of its most recently completed second fiscal quarter, w
+as $
+383,608,000
+based on the
+closing price of the Registrant’s Class A common stock as reported by the New York Stock Exchange on that date. Shares of common stock held by each executive officer and director and by each person who owns 10% or more of the outstanding common stock have been excluded from the foregoing calculation in that such persons may be deemed affiliates. This determination of affiliate status is not necessarily a conclusive determination for other purposes.
+As of March 10, 2026, the registrant had outstandin
+g
+33,504,060
+shares of
+Class A common stock and
+1,507,325
+shares of Class B common stock.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s Definitive Proxy Statement relating to the 2026 Annual Meeting of Stockholders, are incorporated by reference into Part III of this Annual Report on Form 10-K where indicated. Such Definitive Proxy Statement will be filed with the Securities and Exchange Commission within 120 days after the end of the registrant’s fiscal year ended December 31, 2025.
+TABLE OF CONTENTS
+Page
+Special Note Regarding Forward Looking Statements
+PART I
+Item 1.
+Business
+5
+Item 1A.
+Risk Factors
+14
+Item 1B.
+Unresolved Staff Comments
+29
+Item 1C.
+Cybersecurity
+29
+Item 2.
+Properties
+30
+Item 3.
+Legal Proceedings
+30
+Item 4.
+Mine Safety Disclosures
+31
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+32
+Item 6.
+[Reserved]
+32
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+48
+Item 8.
+Financial Statements and Supplementary Data
+50
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+93
+Item 9A.
+Controls and Procedures
+94
+Item 9B.
+Other Information
+98
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+98
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+99
+Item 11.
+Executive Compensation
+99
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+99
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+99
+Item 14.
+Principal Accountant Fees and Services
+99
+PART IV
+Item 15.
+Exhibits and Financial Statement Schedules
+100
+Item 16.
+Form 10-K Summary
+101
+Signatures
+102
+3
+In this Annual Report on Form 10-K, Spire Global, Inc. (together with its subsidiaries) is referred to as “Spire,” the “Company,” “we,” “us,” or “our.”
+SPECIAL NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K contains forward-looking statements within the meaning of the federal securities laws, which statements involve substantial risks and uncertainties. Forward-looking statements generally relate to future events or our future financial or operating performance. In some cases, you can identify forward-looking statements because they contain words such as “may,” “will,” “should,” “expect,” “plan,” “anticipate,” “could,” “would,” “intend,” “target,” “project,” “contemplate,” “believe,” “estimate,” “predict,” “potential,” “seek” or “continue” or the negative of these words or other similar terms or expressions that concern our expectations, strategy, plans or intentions. Forward-looking statements contained in this Annual Report on Form 10-K include, but are not limited to, statements about:
+•
+our cash runway and potential need for additional capital to support business growth, which might not be available on company favorable terms, if at all;
+•
+significant political, trade, regulatory developments, and other circumstances beyond our control, including as a result of geopolitical uncertainty and instability and tariffs, which could have a material adverse effect on our financial condition or results of operations;
+•
+global and domestic economic conditions, including currency exchange rate fluctuations, inflation, interest rates and their impact on demand and pricing for our offerings in affected markets;
+•
+changes in our growth, strategy, future operations, financial position, estimated revenue and losses, projected costs, prospects, and plans;
+•
+our ability to remedy identified material weaknesses;
+•
+the ability to develop new offerings, services, solutions and features and bring them to market in a timely manner and make enhancements to our business;
+•
+the quality and effectiveness of and advancements in our technology and our ability to accurately and effectively use data and engage in predictive analytics;
+•
+overall level of customer demand for our products and services;
+•
+expectations and timing related to product launches;
+•
+the expected timing of revenue recognition, especially in connection with milestone-based services;
+•
+expectations of achieving and maintaining profitability;
+•
+expectations regarding future solar cycles and the anticipated impact on our satellites;
+•
+projections of total addressable markets, market opportunity, and market share;
+•
+our expectations concerning relationships with third parties;
+•
+our ability to acquire or develop products or technologies we believe could complement or expand our platform or to expand our products and services internationally;
+•
+our ability to obtain and protect patents, trademarks, licenses and other intellectual property rights;
+•
+our ability to utilize potential net operating loss carryforwards;
+•
+developments and projections relating to our competitors and industries, such as the projected growth in demand for data solutions;
+•
+our ability to acquire new customers and partners or obtain renewals, upgrades, or expansions from our existing customers, including government customers;
+•
+our ability to compete with existing and new competitors in existing and new markets and offerings;
+•
+our ability to retain or recruit officers, key employees or directors;
+4
+•
+our expectations regarding regulatory approvals and authorizations; and
+•
+the expectations regarding the effects of existing and developing laws and regulations, including with respect to regulations around satellites, intellectual property law, and privacy and data protection.
+We caution you that the foregoing list may not contain all of the forward-looking statements made in this Annual Report on Form 10-K.
+You should not rely upon forward-looking statements as predictions of future events. We have based the forward-looking statements contained in this Annual Report on Form 10-K primarily on our current expectations and projections about future events and trends that we believe may affect our business, financial condition, results of operations, and prospects. The outcome of the events described in these forward-looking statements is subject to risks, uncertainties, and other factors, including those described in the section titled “Risk Factors” and elsewhere in this Annual Report on Form 10-K. Moreover, we operate in a very competitive and rapidly changing environment. New risks and uncertainties emerge from time to time and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Annual Report on Form 10-K. We cannot assure you that the results, events, and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements.
+Neither we nor any other person assumes responsibility for the accuracy and completeness of any of these forward-looking statements. Moreover, the forward-looking statements made in this Annual Report on Form 10-K relate only to expectations as of the date on which the statements are made. We undertake no obligation to update any forward-looking statements made in this Annual Report on Form 10-K to reflect events or circumstances after the date of this Annual Report on Form 10-K or to reflect new information or the occurrence of unanticipated events, except as required by law. We may not actually achieve the plans, intentions or expectations disclosed in our forward-looking statements and you should not place undue reliance on our forward-looking statements. Our forward-looking statements do not reflect the potential impact of any future acquisitions, mergers, dispositions, joint ventures or investments we may make.
+In addition, statements that “we believe” and similar statements reflect our beliefs and opinions on the relevant subject. These statements are based upon information available to us as of the date of this Annual Report on Form 10-K, and while we believe such information forms a reasonable basis for such statements, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements.
+PART I
+Item 1. Business.
+General
+Spire Global, Inc. (“Spire” or the “Company”), founded in August 2012, is a global provider of space-based data and analytics that offers its customers unique datasets and insights about Earth from the ultimate vantage point. The Company collects this space-based data through its proprietary constellation of multi-purpose nanosatellites. The Company designs, manufactures, integrates, and operates its own satellites and ground stations to deliver unique end-to-end comprehensive solutions.
+We are headquartered in Vienna, Virginia, and have wholly owned operating subsidiaries in the United States (“U.S.”), United Kingdom, Luxembourg, Singapore, Germany, and Canada.
+On August 16, 2021, Spire Global Subsidiary, Inc. (formerly known as Spire Global, Inc.) (“Legacy Spire”) closed its previously announced merger with NavSight Holdings, Inc. (“NavSight”), a special purpose acquisition company. As a result, Legacy Spire continued as the surviving corporation and a wholly owned subsidiary of NavSight (the “Merger,” and such consummation, the “Closing”). NavSight then changed its name to Spire Global, Inc. and Legacy Spire changed its name to Spire Global Subsidiary, Inc.
+5
+On April 25, 2025, we completed the sale of our maritime business to Kpler Holding SA for approximately $238.9 million (the “Maritime Transaction”). The sale did not include any portion of our satellite network or operations. As part of the transaction, a portion of the proceeds was used to settle a prior dispute with L3Harris Technologies, Inc. (“L3Harris”) pursuant to a settlement agreement, providing for the full and complete resolution and release of all disputes asserted in connection with the A&R L3 Harris Agreement between exactEarth and L3 Harris, and to repay all outstanding obligations under our financing agreements, including the Blue Torch Finance LLC (“Blue Torch”) and Strategic Innovation Fund (“SIF”) loan facilities.
+Our principal executive office is located at 8000 Towers Crescent Drive, Suite 1100, Vienna, Virginia 22182, and our telephone number is (202) 301-5127.
+Overview
+We are a global provider of space-based data, analytics, and space services, offering unique datasets and powerful insights about Earth so that organizations can make decisions with confidence in a rapidly changing world. We build, own, and operate a fully deployed constellation of multi-purpose nanosatellites that observe the Earth in real time using radio frequency (“RF”) technology. The data acquired by our satellites provide global weather intelligence, aircraft and ship movements, and spoofing and jamming detection to help predict how these patterns affect economies, global security, business operations, and the environment. Additionally, we deliver space-based intelligence through a mission-ready satellite network and military-grade analytics. Our platform supports persistent signal monitoring, source detection, and asset tasking across any global region of interest. We also offer Space Services solutions that enable our customers to deploy and scale their own constellation, by leveraging our proven space platform, global ground station network, end-to-end manufacturing facility, and extensive launch partnership network.
+We operate in the “listening” (radio frequency) satellite market. We do not operate in the “looking” (imagery) or “talking” (communications) satellite markets.
+Our Data Solution Offerings
+Our proprietary constellation of Low Earth Multi-Use Receiver (“LEMUR”) satellites collects and transmits data to our proprietary global ground station network. The data is then autonomously moved from ground stations to proprietary data warehouses for cleansing, standardization, fusion and analysis. Our customers receive proprietary data, analysis, and predictive data and solutions delivered seamlessly in real and near real-time.
+For each data solution, we have the capability to offer customers a variety of features and additional value. The four forms of data we monetize are:
+•
+Clean data
+: Clean and structured data directly from our proprietary satellites;
+•
+Smart data:
+Clean data fused with third-party datasets and proprietary analysis to enhance value and provide insights;
+•
+Predictive data:
+Big data, artificial intelligence (“AI”), and machine learning (“ML”) algorithms applied to fused data sets to create predictive analytics and insights; and
+•
+Data solutions:
+Data-driven actionable recommendations to solve specific business problems, utilizing the full spectrum of our data analytics suite.
+6
+We monetize our proprietary solutions across a broad and growing range of current and target governments and industries including agriculture, logistics, financial services, insurance, aviation operations, energy, and academia, among others. The solutions we provide include space reconnaissance, aviation, weather and climate, and space services.
+Space Reconnaissance
+Over the past several years, geopolitical conflicts have brought the importance of global security to the world’s attention. Our satellites scan the RF spectrum across land, sea, and air, giving organizations the situational awareness they need to respond decisively to emerging threats. These mission-critical insights support defense, intelligence, and national security operations.
+7
+Key applications include:
+•
+RF fingerprinting
+: Catalog and track unique signal behaviors to identify recurring emitters, detect spoofing, or monitor suspect transmissions over time.
+•
+Very High Frequency/Ultra High Frequency
+(“VHF”/“UHF”)
+voice extracts:
+Recover audio from unencrypted communications in VHF and UHF bands, supporting voice-based threat assessment and analysis of hostile or suspicious activity.
+•
+Signal detection & geolocation
+: Trigger intelligence, surveillance, and reconnaissance asset tasking or sensor activation with near-real-time event notifications for rapid coordination in complex or short-lived scenarios.
+•
+RF Monitoring:
+Continuously monitor low-frequency RF activity with near global coverage from low earth orbit for persistent situation awareness, even in geographically challenging and remote regions.
+•
+Jamming & spoofing detection:
+Monitor L-band global navigation satellite system (“GNSS”) signals to identify jamming, spoofing, and anomalous behavior near airports, along borders, or across maritime zones.
+•
+Emitter geolocation:
+Locate interference sources using time difference of arrival, frequency difference of arrival, and doppler analysis, with high revisit rates for tracking mobile or low-power emitters in dynamic environments.
+Aviation
+We provide global satellite-based aircraft tracking data to power applications, drive decision making and improve cost efficiencies. We utilize International Civil Aviation Organization-backed Automatic Dependent Surveillance-Broadcast (“ADS-B”) aircraft tracking data to provide near real-time precision and situational awareness. Using ADS-B, customers can track the overall operational status of aviation assets and relevant weather conditions along a given aircraft’s f

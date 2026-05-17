@@ -1,0 +1,189 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2025
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+Commission file number 001-00812
+RTX Corporation
+(Exact name of registrant as specified in its charter)
+Delaware
+06-0570975
+(State or Other Jurisdiction of Incorporation or Organization)
+(I.R.S. Employer Identification No.)
+1000 Wilson Boulevard, Arlington, Virginia 22209
+(Address of principal executive offices) (Zip Code)
+(781)
+522-3000
+(Registrant’s telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock ($1 par value)
+RTX
+New York Stock Exchange
+(CUSIP 75513E 101)
+2.150% Notes due 2030
+RTX 30
+New York Stock Exchange
+(CUSIP 75513E AB7)
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes
+☒
+No
+¨
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes
+¨
+No
+☒
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes
+☒
+No
+¨
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes
+☒
+No
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer
+☒
+Accelerated Filer
+☐
+Non-Accelerated Filer
+☐
+Smaller Reporting Company
+☐
+Emerging Growth Company
+☐
+1
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☒
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+¨
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+¨
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes
+☐
+No
+☒
+The aggregate market value of the voting Common Stock held by non-affiliates at June 30, 2025 was approximately $195,405,729,090, based on the New York Stock Exchange closing price for such shares on that date. For purposes of this calculation, the Registrant has assumed that its directors and executive officers are affiliates.
+At December 31, 2025, there were 1,342,287,676 shares of Common Stock outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the Registrant’s Definitive Proxy Statement for its 2026 Annual Meeting of Shareowners are incorporated by reference in Part III of this Form 10-K.
+2
+Table of Contents
+INDEX
+PART I
+Item 1.
+Business
+4
+Item 1A.
+Risk Factors
+13
+Item 1B.
+Unresolved Staff Comments
+27
+Item 1C.
+Cybersecurity
+27
+Item 2.
+Properties
+29
+Item 3.
+Legal Proceedings
+30
+Item 4.
+Mine Safety Disclosures
+30
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters, and Issuer Purchases of Equity Securities
+31
+Item 6.
+Reserved
+32
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+33
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+59
+Item 8.
+Financial Statements and Supplementary Data
+61
+Item 9.
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+112
+Item 9A.
+Controls and Procedures
+112
+Item 9B.
+Other Information
+112
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+112
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+113
+Item 11.
+Executive Compensation
+114
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+114
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+115
+Item 14.
+Principal Accountant Fees and Services
+115
+PART IV
+Item 15.
+Exhibits, Financial Statement Schedules
+116
+Item 16.
+Form 10-K Summary
+122
+SIGNATURES
+123
+RTX Corporation and its subsidiaries’ names, abbreviations thereof, logos, and products and services designators are all either the registered or unregistered trademarks or tradenames of RTX Corporation and its subsidiaries. Names, abbreviations of names, logos, and products and services designators of other companies are either the registered or unregistered trademarks or tradenames of their respective owners. References to internet web sites in this Form 10-K are provided for convenience only. Information available through these web sites is not incorporated by reference into this Form 10-K.
+3
+Table of Contents
+PART I
+ITEM 1. BUSINESS
+General
+RTX Corporation is an aerospace and defense company that provides advanced systems and services for commercial, military, and government customers worldwide. The terms “we,” “us,” “our,” the “Company”, and “RTX” mean RTX Corporation and its subsidiaries, unless the context indicates another meaning. We serve commercial and government customers in both the original equipment and aftermarket parts and services segments of the aerospace industry. Our defense business serves both domestic and international customers as a prime contractor or subcontractor on a broad portfolio of defense and related programs for military and government customers. RTX Corporation was incorporated in Delaware in 1934.
+The following description of our business should be read in conjunction with “Management’s Discussion and Analysis of Financial Condition and Results of Operations” within Item 7 of this Form 10-K, including the information contained therein under the heading “Business Overview.”
+Business Segments
+Our operations are classified into three principal business segments: Collins Aerospace (Collins), Pratt & Whitney, and Raytheon, with each segment comprised of groups of similar operations.
+Collins Aerospace
+is a leading global provider of technologically advanced aerospace and defense products. Collins’ solutions include aftermarket services for civil and military aircraft manufacturers, commercial airlines, and regional, business, and general aviation, as well as for defense and commercial space operations. Aftermarket services include spare parts, overhaul and repair, engineering and technical support, training and fleet management solutions, asset management services, and information management services. Collins designs, manufactures, and supplies electric power generation, management and distribution systems, environmental control systems, flight control systems, air data and aircraft sensing systems, engine control systems, engine components, engine nacelle systems, including thrust reversers and mounting pylons, interior and exterior aircraft lighting, aircraft cargo systems, evacuation systems, landing systems (including landing gear, wheels, and braking systems), communication, navigation, surveillance systems, fire and ice detection and protection systems, integrated avionics, and propeller systems. Collins also designs, manufactures, and supports complete cabin interiors, including seating, oxygen systems, food and beverage preparation, storage and galley systems, lavatory, and wastewater management systems. Collins’ solutions support human space exploration with environmental control and power systems and extravehicular activity suits. Collins also provides connected aviation solutions and services through worldwide voice and data communication networks, airport systems and integrations, and air traffic management solutions. Collins supports government and defense customer missions by providing systems solutions for connected battlespace, test and training range systems, crew escape systems, and simulation and training.
+Collins sells aerospace and defense products and services to aircraft manufacturers, airlines, airports and other aircraft operators, the U.S. and foreign governments, defense contractors, maintenance, repair, and overhaul providers, and independent distributors around the world. Collins’ largest commercial customers are Boeing and Airbus with combined sales, prior to discounts and incentives, of 16%, 16%, and 19% of total Collins segment sales in 2025, 2024, and 2023, respectively.
+In 2025, Collins was awarded a contract to deliver satellite communication systems to support survivable communications across multiple frequency bands. Collins was also awarded a contract by the Federal Aviation Administration (FAA) to support the Radar System Replacement program as part of the Department of Transportation’s Brand New Air Traffic Control System. Collins was selected to be the primary subcontractor for the U.S. Navy’s solution for engineering design and manufacturing of the Very Low Frequency communication subsystem, as well as mission command, control, and communications infrastructure, Advanced Extremely High Frequency and voice communications. In addition, Collins was awarded a follow-on contract from the FAA to continue support of the Standard Terminal Automation Replacement System (STARS) which is used to manage aircraft spacing and sequencing on approach. Collins secured over $4 billion in combined long-term agreements to provide new maintenance, repair and overhaul services, and long-term contracts to provide spare parts, for several airlines. Finally, Collins was selected by the European Union’s Clean Aviation Joint Undertaking (Clean Aviation) to collaborate with Pratt & Whitney Canada as well as other consortium members on multiple development projects aimed at increasing fuel efficiency for next-generation regional aircraft, most notably the Powerplant Hybrid Applications Regional Segment (PHARES) project. As part of the PHARES project, Pratt & Whitney Canada will lead the development of a hybrid-electric PW127XT-derivative engine, incorporating a Collins 250kW motor and integrated power controller. Collins will also develop an advanced propeller system for improved fuel efficiency and reduced noise for such engine as part of PHARES.
+4
+Table of Contents
+Collins continues to invest in sustainable technologies, such as electrical power architectures, advanced composite materials, digital trajectory optimizers, highly efficient cooling systems, and numerous other technologies that provide lower weight, improved drag, and carbon footprint solutions on aircraft. Collins is also investing in higher efficiency build processes, that reduce chemical and power usage and increase the use of recycling. Collins’ thermoplastic and carbon structural technologies support optimization of the design of aircraft components and equipment to minimize weight, maximize energy efficiency, reduce fuel burn, and extend brake life. Collins works closely with numerous other industry organizations and airframers to explore alternative energy solutions such as sustainable aviation fuel, hydrogen, and hybrid electric power sources. Collins also continues to invest in operational capacity in strategic locations in the United States (including Puerto Rico), India, Mexico, Singapore, and the Philippines.
+Pratt & Whitney
+is among the world’s leading suppliers of aircraft engines for commercial, military, business jet, and general aviation customers. Pratt & Whitney designs, manufactures, and services large engines for widebody, narrowbody, and large regional aircraft for commercial customers and for fighter, bomber, tanker, and transport aircraft for military customers. Pratt & Whitney also designs, manufactures, and services small engines powering regional airlines, general and business aviation, and helicopters. Pratt & Whitney produces, sells, and services military and commercial auxiliary power units. Pratt & Whitney provides fleet management services and aftermarket maintenance, repair, and overhaul services in all of these product segments.
+Pratt & Whitney sells products and services principally to aircraft manufacturers, airlines and other aircraft operators, aircraft leasing companies, and the U.S. and foreign governments. Pratt & Whitney’s largest commercial customer by sales is Airbus, with sales, prior to discounts and incentives, of 29%, 31%, and 48% of total Pratt & Whitney segment sales in 2025, 2024, and 2023, respectively.
+Pratt & Whitney produces and services the PW1000G Geared Turbofan (GTF) engine family. GTF engine models have demonstrated a significant reduction in fuel burn and noise levels and lower environmental emissions compared to prior-generation engines. The GTF aftermarket network expanded to 21 facilities worldwide, increasing PW1100G-JM shop visit output by approximately 26% year over year in 2025.
+The GTF family now powers more than 2,600 aircraft for over 90 operators across three aircraft platforms: Airbus A320neo family, Airbus A220, and Embraer E-Jets E2. In 2025, the GTF Advantage engine received FAA and European Union Safety Agency (EASA) certification for the Airbus A320 neo family and is expected to extend the benefits of the current GTF engine, increasing takeoff thrust by 4 to 8 percent and reducing fuel consumption by up to an additional 1 percent, maintaining the engine’s lead as the most efficient powerplant for the A320neo family.
+Pratt & Whitney produces and sustains the F135 engine for the U.S. government’s F-35 Joint Program Office to exclusively power the single-engine F-35 Lightning II fifth generation aircraft (commonly known as the Joint Strike Fighter) produced by Lockheed Martin. F135 propulsion system configurations are used for the U.S. Air Force’s F-35A, the U.S. Marine Corps’ F-35B, and the U.S. Navy’s F-35C jets. F135 engines are also used on all F-35 aircraft purchased by Joint Strike Fighter partner countries and other countries through foreign military sales arrangements. In 2025, Pratt & Whitney’s F135 engine surpassed one million engine flight hours, and the company was awarded a $2.8 billion undefinitized contract action (UCA) for production of Lot 18 and Lot 19 long lead funding for the F135 engines to power all three variants of the F-35 Lightning II aircraft. Additionally, Pratt & Whitney continued design maturation and aircraft integration efforts for the F135 Engine Core Upgrade (ECU).
+Significant activity continued on Pratt & Whitney’s military engine development programs, including the Next Generation Adaptive Propulsion (NGAP) program. In early 2025, Pratt & Whitney completed the Detailed Design Review of its XA103 engine for the U.S. Air Force’s NGAP, allowing it to begin procurement of hardware for the construction of the prototype ground demonstrator. Most recently, Pratt & Whitney announced accelerated XA103 engine development through the use of digital data packages, and continued progress toward the next major program milestone. Meanwhile, the B-21 Raider, which is powered by Pratt & Whitney engines, continued to progress its flight test program.
+In 2025, Pratt & Whitney Canada was selected by the European Union's Clean Aviation to lead the PHARES project, marking the first time a Canadian company will participate in and lead a Clean Aviation program. As part of the PHARES consortium, Pratt & Whitney Canada will collaborate with Collins, ATR, Airbus, and technology research organizations to design and integrate a hybrid-electric propulsion demonstrator, targeting up to 20% improved fuel efficiency on regional aircraft missions. Finally, in 2025, Pratt & Whitney Canada’s PT6 E-Series™ engine family surpassed 500,000 engine flight hours since entering service.
+The development of new engines and improvements to current production engines present important growth opportunities for Pratt & Whitney. In view of the risks and costs associated with developing new engines, Pratt & Whitney has entered into collaboration arrangements in which revenues, costs, and risks are shared with third parties. At December 31, 2025, the interests of third-party collaboration participants in Pratt & Whitney-directed jet engine programs ranged, in the aggregate per
+5
+Table of Contents
+program, from 13% to 49%. See “Note 1: Basis of Presentation and Summary of Accounting Principles” within Item 8 of this Form 10-K for a description of our accounting for collaboration arrangements. Pratt & Whitney also continues to enhance its programs through performance improvement measures and product base expansion, utilizing similar collaboration arrangements.
+Raytheon
+is a leading provider of defensive and offensive threat detection, tracking and mitigation capabilities for U.S. and foreign government and commercial customers. Raytheon designs, develops, and provides advanced capabilities in integrated air and missile defense, smart weapons, missiles, advanced sensors and radars, interceptors, space-based systems, hypersonics, and missile defense across land, air, sea, and space. Raytheon provides air-to-air and air-to-ground sensors, command and control and weapons including the Advanced Medium Range Air-to-Air Missile (AMRAAM), StormBreaker smart weapon, Long Range Stand Off Weapon (LRSO), and the Early Warning Radar. Raytheon also provides advanced naval sensors, command and control and weapons including classified naval radars, the Next Generation Jammer (NGJ), shipboard missiles including the Tomahawk and Standard Missile 6 (SM-6), air-to-air missiles such as the AIM-9X SIDEWINDER missile, and integrated systems such as the SPY-6 radar. In addition, Raytheon provides advanced systems and products that span layered land and integrated air and missile defense, including the Patriot air and missile defense system, the Lower Tier Air and Missile Defense Sensor (LTAMDS), the National Advanced Surface-to-Air Missile System (NASAMS), Javelin, Excalibur, Stinger, and High-Energy Lasers. Raytheon also provides technologically advanced sensors, satellites, and interceptors, including the AN/TPY-2 radar, and Standard Missile 3 (SM-3). Raytheon delivers integrated space solutions including sensors, mission orchestration, satellite control, and software. Raytheon also focuses on the development and early introduction of next-generation technologies and systems, including hypersonics, counter-hypersonics, next-generation radars, sensor experimentation, and electro-optical/infrared (EO/IR) advancements, and aligns products that use shared technologies, including fire control radars, surveillance radars, EO/IR, space-qualified satellite 

@@ -1,0 +1,202 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K
+(Mark One)
+☑
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended January 2, 2026
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _______________ to ______________
+Commission File Number 1-3863
+L3HARRIS TECHNOLOGIES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+34-0276860
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+1025 West NASA Boulevard
+Melbourne,
+Florida
+32919
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (321) 727-9100
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $1.00 per share
+LHX
+New York Stock Exchange
+Securities Registered Pursuant to Section 12(g) of the Act:
+None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☑ No ☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐ No ☑
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☑ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☑ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☑
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☑
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes ☐ No ☑
+The aggregate market value of the voting common equity held by non-affiliates of the registrant at June 27, 2025 was $46,020,545,333 (based on the quoted closing sale price per share of the stock on the New York Stock Exchange). For purposes of this calculation, the registrant has assumed that its directors and executive officers as of June 27, 2025 are affiliates.
+The number of shares outstanding of the registrant’s common stock as of February 6, 2026 was 186,776,263.
+Documents Incorporated by Reference:
+Portions of the registrant’s definitive Proxy Statement for the 2026 Annual Meeting of Shareholders scheduled to be held on May 11, 2026, which will be filed with the Securities and Exchange Commission within 120 days after the end of the registrant’s fiscal year ended January 2, 2026, are incorporated by reference into Part III of this Annual Report on Form 10-K to the extent described therein.
+L3HARRIS TECHNOLOGIES, INC.
+ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED JANUARY 2, 2026
+TABLE OF CONTENTS
+Page No.
+Part I:
+ITEM 1. Business
+1
+ITEM 1A. Risk Factors
+5
+ITEM 1B. Unresolved Staff Comments
+16
+ITEM 1 C . Cybersecurity
+16
+ITEM 2. Properties
+17
+ITEM 3. Legal Proceedings
+17
+ITEM 4. Mine Safety Disclosures
+18
+Information about our Executive Officers
+18
+Part II:
+ITEM 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+18
+ITEM 6. [Reserved]
+20
+ITEM 7. M anagement’s Discussion and Analysis of Financial Condition and Results of Operations
+20
+ITEM 7A. Quantitative and Qualitative Disclosures About Market Risk
+35
+ITEM 8. Financial Statements and Supplementary Data
+36
+ITEM 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+83
+ITEM 9A. Controls and Procedures
+83
+ITEM 9B. Other Information
+85
+ITEM 9C. Disclosure Regarding Foreign Jurisdictions That Prevent Inspections
+85
+Part III:
+ITEM 10. Directors, Executive Officers and Corporate Governance
+85
+ITEM 11. Executive Compensation
+86
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+86
+ITEM 13 . Certain Relationships and Related Transactions, and Director Independence
+86
+ITEM 14. Principal Accounting Fees and Services
+86
+Part IV:
+ITEM 15. Exhibits, Financial Statement Schedules
+87
+ITEM 16. Form 10-K Summary
+91
+Signatures
+92
+PART I
+ITEM 1.
+BUSINESS.
+General
+L3Harris Technologies, Inc. is the Trusted Disruptor in the defense industry. With customers’ mission-critical needs in mind, we deliver end-to-end technology solutions connecting the space, air, land, sea and cyber domains in the interest of national security. We support customers in more than 100 countries, with our largest customers being various departments and agencies of the U.S. Government, their prime contractors and international allies. Our capabilities have defense and civil government applications, as well as commercial applications.
+Our fiscal year ends on the Friday nearest December 31. The fiscal year ended January 2, 2026 (“fiscal 2025”) included 52 weeks, fiscal year ended January 3, 2025 (“fiscal 2024”) included 53 weeks, and the fiscal year ended December 29, 2023 (“fiscal 2023”) included 52 weeks. Unless the context otherwise requires, the terms “we,” “our,” “us,” “Company” and “L3Harris” as used in this Annual Report on Form 10-K (this “Report”) mean L3Harris Technologies, Inc. and its subsidiaries.
+Description of Business Segments
+We structure our operations primarily around the capabilities we provide and we report our financial results in four operating segments, which are also our reportable segments or business segments. From time to time, we acquire or divest businesses and strategically realign businesses within and across our business segments to optimize existing capabilities and enhance the efficiency with which we develop and deliver on our contracts. For financial information with respect to our business segments, see
+Note 14: Business Segments
+Note 16: Subsequent Events
+in the Notes.
+Our business segments provide a wide-range of capabilities to various customers and are described below.
+Communication Systems (“CS”).
+Enables warfighters across all domains with solutions critical to mission success even in the most contested environments. We are a leading provider of resilient communication solutions for the U.S. Department of War (“DoW”) and international, federal, and state agency customers in the following business sectors:
+Tactical Communications:
+Design, manufacture and sustainment of resilient and interoperable secure communication solutions that include tactical radios, software, waveforms, satellite terminals and end-to-end battlefield systems.
+Broadband Communications:
+Design, manufacture and sustainment of resilient and secure communication solutions that include intelligence, reconnaissance and surveillance (“ISR”) and tactical data links, software and integrated broadband networks.
+Integrated Vision Solutions
+: Design, manufacture and sustainment of a full suite of helmet-mounted integrated night vision goggles with leading-edge image intensifier tubes, as well as weapon-mounted sights, aiming lasers, and range finders.
+Public Safety and Professional Communications (“PSPC”):
+State-of-the-art communication equipment, systems and applications for federal agencies, state and local government first responders, utilities and transit agencies.
+Integrated Mission Systems (“IMS”).
+Delivers differentiated mission capabilities and prime systems integration to support multi-mission ISR, passive sensing and targeting, electronic attack, autonomy, power and communications, networks and sensors. IMS specializes in system design, development, integration, production, modernization and sustainment for national security and international customers in the following business sectors:
+ISR:
+Airborne passive sensing and targeting, mission systems development, integration and life-cycle management for strategic reconnaissance and air superiority platforms, national command and control, tactical surveillance, electronic attack, agile strike, mobility, and classified platforms.
+Maritime:
+Power, electrical, imaging, communication and sensor systems for naval platforms; integrated autonomous vessels for surface and undersea operations; fleet management; in-service support; missionization prototyping; and naval integration.
+Targeting & Sensor Systems
+(“TSS”)
+:
+Multi-domain, multi-spectral electro-optical (“EO”) and infrared (“IR”) sensor systems supporting ISR and target acquisition missions; manufacturing of specialty laser and filter glass materials, laser range finders, target designators and transmitters; and highly scalable autonomous solutions.
+_____________________________________________________________________
+1
+Defense Electronics(“DE”):
+Space communications and space flight avionics; 360-degree visible/midwave IR passive surveillance; protected GPS communications, navigation and range-testing solutions; and precision electronic components.
+Commercial Aviation Solutions
+(“CAS disposal group”)
+:
+Note 13: Acquisitions and Divestitures
+in the Notes for further information.
+Space & Airborne Systems (“SAS”).
+Supplies full mission solutions as a prime and subsystem integrator in the space, airborne and cyber domains. We provide top-tier capabilities in the design, development, integration, production and sustainment of weapons systems for national security, civil government and international customers in the following business sectors:
+Space Systems:
+ISR; position, navigation and timing; weather and climate monitoring; missile defense and ground-based space surveillance networks.
+Intel & Cyber:
+Situational awareness, optical networks and advanced wireless solutions for classified intelligence and defense customers.
+Mission Networks:
+Communications and networking solutions for air traffic management.
+Airborne Combat Systems:
+Sensors, processors, hardened electronics, unmanned aircraft systems, precision weapons, infrared search and tracking, distributed aperture systems and precision pointing, weapons release systems; antennas for aircraft platforms; and threat warning and countermeasures for airborne, ground and maritime platforms.
+Aerojet Rocketdyne (“AR”).
+Provides propulsion, power and armament products and systems to U.S. Government, including the DoW, National Aeronautics and Space Administration ("NASA") and major aerospace and defense prime contractors in the following business sectors:
+Missile Solutions:
+Propulsion technologies and armament systems for strategic defense, missile defense, hypersonic, tactical and fuzing systems.
+Space Propulsion and Power Systems (“SPPS”):
+Premier propulsion and power systems for national security, space and exploration missions.
+International Business
+In fiscal 2025, revenue where the end consumer is located outside the U.S., including foreign military sales funded through the U.S. Government, whether directly or through prime contractors, was $4.8 billion (22% of our revenue) and came from over 100 countries with no single foreign country accounting for more than 5% of our total revenue. For financial information regarding our domestic and international operations, including long-lived assets, see
+Note 14: Business Segments
+in the Notes.
+The majority of our international marketing activities are conducted through subsidiaries that operate in the Europe, Middle East and Africa (“EMEA”) and Asia-Pacific (“APAC”) regions and Canada. We also have established international marketing organizations and several regional sales offices.
+Competitive Conditions and Trends in Market Demand
+We operate in highly-competitive markets that are sensitive to technological advances. Some of our competitors in each of our markets are larger than we are and can maintain higher levels of expenditures for research and development (“R&D”). We concentrate on the opportunities that we believe are compatible with our resources, overall technological capabilities and objectives. We also collaborate with innovative partners, such as our strategic partnerships with Palantir Technologies, Shield Capital, Anduril and Amazon Kuiper to develop new capabilities to meet the demands of our customers. Such collaboration is driven by modern market dynamics where competing in our markets requires the ability to fuse hardware, software and artificial intelligence (“AI”). Principal competitive factors are quality and reliability; technological capabilities; service; past performance; ability to develop and implement complex, integrated solutions; ability to meet delivery schedules; and cost-effectiveness. We frequently “partner” or are involved in subcontracting and teaming relationships with companies that are, from time to time, competitors on other programs. We compete domestically and internationally against large defense companies; principally BAE Systems, Boeing, General Dynamics, Lockheed Martin, Northrop Grumman, RTX, Thales and non-traditional defense contractors, such as Anduril, Ursa Major and Silvus Technologies. For further discussion of trends in market demand, see “Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations” of this Report.
+_____________________________________________________________________
+2
+Contractual Backlog
+As of the end of fiscal 2025, our contractual backlog was $38.7 billion. We expect to recognize approximately 45% of the revenue associated with such contractual backlog by the end of fiscal 2026 and approximately 70% by the end of fiscal 2027, with the remainder to be recognized thereafter. See
+Note 1: Significant Accounting Policies
+in the Notes for additional information regarding contractual backlog.
+R&D
+We conduct R&D activities using our own funds (company-funded R&D) and under contractual arrangements (customer-funded R&D). See
+Note 1: Significant Accounting Policies
+in the Notes for further information on company-funded R&D.
+Intellectual Property
+We own a large portfolio of patents, trade secrets, know-how, confidential information, trademarks, copyrights and other intellectual property and we routinely apply for new patents and copyrights. We also license intellectual property to and from third parties. With regard to certain patents, the U.S. Government has an irrevocable, non-exclusive, royalty-free license, pursuant to which the U.S. Government may use or authorize others to use the inventions covered by such patents. Pursuant to similar arrangements, the U.S. Government may consent to our use of inventions covered by patents owned by other persons.
+Government Regulations
+Our company is subject to various federal, state, local and international laws and regulations relating to the development, manufacture, sale and distribution of our products and services. Regulations include, but are not limited to, those related to import and export controls, corruption, bribery, the environment, government procurement, competition, product safety, workplace health and safety, employment, labor and data privacy. The following describes significant regulations that may impact our businesses. For further discussion of risks relating to government regulations, see “Item 1A. Risk Factors” of this Report.
+Government Contracts.
+In fiscal 2025, the percentage of our revenue that was derived from sales to U.S. Government customers, whether directly or through prime contractors, including foreign military sales funded through the U.S. Government, was 75% and no other customer accounted for more than 5% of our revenue. Additional information regarding customers for each of our segments is provided under “Item 1. Business — Description of Business Segments” of this Report.
+Cost-type contracts.
+Our U.S. Government cost-type contracts provide for the reimbursement of allowable costs plus payment of a fee and fall into three basic types: (i) cost-plus fixed-fee contracts, which provide for payment of a fixed fee irrespective of the final cost of performance; (ii) cost-plus incentive-fee contracts, which provide for payment of a fee that may increase or decrease, within specified limits, based on actual results compared with contractual targets relating to factors such as cost, performance and delivery schedule; and (iii) cost-plus award-fee contracts, which provide for payment of an award fee determined at the customer’s discretion based on our performance against pre-established performance criteria. Under our U.S. Government cost-type contracts, we are reimbursed periodically for allowable costs and are paid a portion of the fee based on contract progress. Some costs are partially or wholly unallowable for reimbursement by statute or regulation. Examples include certain merger and acquisition costs, lobbying costs, charitable contributions, interest expense, financing costs and certain litigation defense costs.
+Fixed-price contracts.
+Our U.S. Government fixed-price contracts are either firm fixed-price contracts or fixed-price incentive contracts. Under our U.S. Government firm fixed-price contracts, we agree to perform a specific scope of work or sell a specific product for a fixed price and, as a result, benefit from cost savings or carry the burden of cost overruns. Under our U.S. Government fixed-price incentive contracts, we share with the U.S. Government both savings accrued for performance at less than target cost as well as costs incurred in excess of target cost up to a negotiated ceiling price, which is higher than the target cost, but carry the entire burden of costs exceeding the negotiated ceiling price. Under such incentive contracts, profit may also be adjusted up or down depending on whether specified performance objectives are met. Under our U.S. Government firm fixed-price and fixed-price incentive contracts, we generally receive either milestone payments totaling 100% of the contract price or monthly progress payments in amounts equaling 80% of costs incurred under the contract. The remaining amounts, including profits or incentive fees, are billed upon delivery and final acceptance of end items and deliverables under the contract.
+Our production contracts are mainly fixed-price contracts and development contracts are generally cost-type contracts, although we have some fixed-p

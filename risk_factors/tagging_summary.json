@@ -1,0 +1,192 @@
+{
+  "generated": "2026-05-16T17:46:44.480606Z",
+  "total_rows": 448,
+  "filings": 12,
+  "per_company": [
+    {
+      "file": "BA_risk_factors.txt",
+      "company": "Boeing",
+      "ticker": "BA",
+      "filing_year": "2026",
+      "total_rows": 11,
+      "unique_keywords": 10,
+      "categories": [
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "LHX_risk_factors.txt",
+      "company": "L3Harris Technologies",
+      "ticker": "LHX",
+      "filing_year": "2026",
+      "total_rows": 15,
+      "unique_keywords": 8,
+      "categories": [
+        "Export Control & Regulatory",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "LMT_risk_factors.txt",
+      "company": "Lockheed Martin",
+      "ticker": "LMT",
+      "filing_year": "2026",
+      "total_rows": 15,
+      "unique_keywords": 8,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "LUNR_risk_factors.txt",
+      "company": "Intuitive Machines",
+      "ticker": "LUNR",
+      "filing_year": "2026",
+      "total_rows": 46,
+      "unique_keywords": 22,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "MNTS_risk_factors.txt",
+      "company": "Momentus",
+      "ticker": "MNTS",
+      "filing_year": "2026",
+      "total_rows": 37,
+      "unique_keywords": 18,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "NOC_risk_factors.txt",
+      "company": "Northrop Grumman",
+      "ticker": "NOC",
+      "filing_year": "2026",
+      "total_rows": 38,
+      "unique_keywords": 20,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "PL_risk_factors.txt",
+      "company": "Planet Labs",
+      "ticker": "PL",
+      "filing_year": "2026",
+      "total_rows": 52,
+      "unique_keywords": 24,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "RDW_risk_factors.txt",
+      "company": "Redwire Corporation",
+      "ticker": "RDW",
+      "filing_year": "2026",
+      "total_rows": 64,
+      "unique_keywords": 34,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "RKLB_risk_factors.txt",
+      "company": "Rocket Lab USA",
+      "ticker": "RKLB",
+      "filing_year": "2026",
+      "total_rows": 48,
+      "unique_keywords": 25,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "RTX_risk_factors.txt",
+      "company": "Raytheon Technologies",
+      "ticker": "RTX",
+      "filing_year": "2026",
+      "total_rows": 54,
+      "unique_keywords": 28,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Material & Component Shortage",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "SPCE_risk_factors.txt",
+      "company": "Virgin Galactic",
+      "ticker": "SPCE",
+      "filing_year": "2026",
+      "total_rows": 47,
+      "unique_keywords": 26,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Technology & Cyber Risk"
+      ]
+    },
+    {
+      "file": "SPIR_risk_factors.txt",
+      "company": "Spire Global",
+      "ticker": "SPIR",
+      "filing_year": "2026",
+      "total_rows": 21,
+      "unique_keywords": 14,
+      "categories": [
+        "Export Control & Regulatory",
+        "Geopolitical Risk",
+        "Manufacturing & Production Risk",
+        "Material & Component Shortage",
+        "Supplier Concentration",
+        "Technology & Cyber Risk"
+      ]
+    }
+  ]
+}

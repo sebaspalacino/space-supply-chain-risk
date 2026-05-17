@@ -1,0 +1,167 @@
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2025
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from
+to
+Commission file number 001-39733
+Redwire Corporation
+(Exact name of registrant as specified in its charter)
+Delaware
+88-1818410
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+8226 Philips Highway, Suite 101
+Jacksonville, Florida
+32256
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant's telephone number, including area code:
+(
+650) 701-7722
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.0001 per share
+RDW
+New York Stock Exchange
+Securities registered pursuant to section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes ☒
+No
+o
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes
+o
+No ☒
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes ☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes ☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☒
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant 13(a) of the Exchange Act.
+☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C.7262(b)) by the registered public accounting firm that prepared or issued its audit report. ☒
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes
+☐
+No
+☒
+The aggregate market value of the voting and non-voting common equity held by non-affiliates of the registrant as of June 30, 2025 was approximately $895.6 million based on the closing price of $16.30 for the shares of the registrant’s common stock, as reported by the New York Stock Exchange. The determination of affiliate status is not necessarily a conclusive determination for other purposes.
+The registrant had outstanding 191,975,804 shares of common stock as of February 23, 2026.
+DOCUMENTS INCORPORATED BY REFERENCE
+Certain information in the registrant’s definitive proxy statement to be filed with the Securities and Exchange Commission relating to the registrant’s 2026 Annual Meeting of Shareholders is incorporated by reference into Part III of this Annual Report on Form 10-K.
+Page 1
+REDWIRE CORPORATION
+Annual Report on Form 10-K
+December 31, 2025
+Table of Contents
+ITEM
+Page Number
+Part I
+3
+Item 1. Business
+4
+Item 1A. Risk Factors
+10
+Item 1B. Unresolved Staff Comments
+39
+Item 1C. Cybersecurity
+39
+Item 2. Properties
+40
+Item 3. Legal Proceedings
+41
+Item 4. Mine Safety Disclosures
+41
+Part II
+42
+Item 5. Market for Registrant's Common Equity, Related Stockholders Matters and Issuer Purchases of Equity Securities
+42
+Item 6. [Reserved]
+42
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+42
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+57
+Item 8. Financial Statements and Supplementary Data
+58
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosures
+108
+Item 9A. Controls and Procedures
+108
+Item 9B. Other Information
+110
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+110
+Part III
+110
+Item 10. Directors, Executive Officers and Corporate Governance
+110
+Item 11. Executive Compensation
+110
+Item 12. Security Ownership of Certain Beneficial Owner and Management and Related Stockholder Matters
+111
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+111
+Item 14. Principal Accounting Fees and Services
+111
+PART IV
+112
+Item 15. Exhibits, Financial Statement Schedules
+112
+Item 16. Form 10-K Summary
+115
+Signatures
+116
+Page 2
+PART I
+Each of the terms the “Company,” “Redwire,” “we,” “our,” “us” and similar terms used herein refer collectively to Redwire Corporation, a Delaware corporation, and its consolidated subsidiaries, unless otherwise stated.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K contains statements that constitute “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 concerning us and other matters. Words such as “will,” “expect,” “anticipate,” “intend,” “may,” “could,” “should,” “plan,” “project,” “forecast,” “believe,” “estimate,” “outlook,” “trends,” “goals,” “contemplate,” “continue,” “might,” “possible,” “potential,” “predict,” “would” and similar expressions generally identify these forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. Forward-looking statements include, among other things, statements relating to our future financial condition, results of operations and/or cash flows, and our projects and related timelines. Forward-looking statements are based upon assumptions, expectations, plans and projections that we believe to be reasonable when made, but which may change over time. These statements are not guarantees of future performance and inherently involve a wide range of risks and uncertainties that are difficult to predict. Specific risks and uncertainties that could cause actual results to differ materially from those expressed or implied in these forward-looking statements include, but are not limited to, those identified in this Annual Report on Form 10-K, particularly in Part I, Item 1A. “Risk Factors,” and Part II, Item 7 “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” and other important factors disclosed from time to time in our other filings with the Securities and Exchange Commission (“SEC”).
+Undue reliance should not be placed on these forward-looking statements. The forward-looking statements contained in this Annual Report on Form 10-K are based on current expectations and beliefs concerning future developments and their potential effects on us. There can be no assurance that future developments affecting us will be those that we have anticipated. We do not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+WEBSITE AND SOCIAL MEDIA DISCLOSURE
+We use our website (www.rdw.com) and our corporate Facebook, X, LinkedIn, and Instagram accounts as channels of distribution of Company information. The information we post through these channels may be deemed material. Accordingly, investors should monitor these channels, in addition to following our press releases, SEC filings and public conference calls and webcasts. The contents of our website and social media channels are not, however, a part of this report.
+TRADEMARKS
+We own or have the rights to use various trademarks referred to in this Annual Report on Form 10-K and their respective logos. Solely for convenience, we may refer to trademarks in this Annual Report on Form 10-K without the TM and ® symbols. Such references are not intended to indicate, in any way, that we will not assert, to the fullest extent permitted by law, our rights to our trademarks. Other trademarks appearing in this Annual Report on Form 10-K are the property of their respective owners.
+MARKET AND INDUSTRY INFORMATION
+Market data used throughout this Annual Report on Form 10-K is based on management’s knowledge of the industry and the good faith estimates of management. All of management’s estimates presented herein are based on industry sources, including analyst reports and management’s knowledge. We also relied, to the extent available, upon management’s review of independent industry surveys and publications prepared by a number of sources and other publicly available information. We are responsible for all of the disclosure in this Annual Report on Form 10-K and while we believe that each of the publications, studies and surveys used throughout this Annual Report on Form 10-K are prepared by reputable sources, we have not independently verified market and industry data from third-party sources.
+All of the market data used in this Annual Report on Form 10-K involves a number of assumptions and limitations, and you are cautioned not to give undue weight to such estimates. While we believe the estimated market position, market opportunity and market size information included in this Annual Report on Form 10-K is generally reliable, such information, which in part is derived from management’s estimates and beliefs, is inherently uncertain and imprecise and has not been verified by any independent source. Projections, assumptions and estimates of our future performance and the future performance of the industry in which we operate are necessarily subject to a high degree of uncertainty and risk due to a variety of factors, including those described in “Item 1A Risk Factors” of Part I of this Annual Report on Form 10-K and elsewhere in this Annual Report on Form 10-K. These and other factors could cause results to differ materially from those expressed in our estimates and beliefs and in the estimates prepared by independent parties. See “Cautionary Note Regarding Forward-Looking Statements” above.
+Page 3
+Item 1. Business
+General
+Redwire is an integrated space and defense technology company focused on advanced technologies. The Company’s vision is to pioneer next-generation space and defense technologies that empower scientific discovery, advance global industries, and strengthen security - transforming how humanity explores, connects, and protects - from the skies above to the stars beyond. Powered by this vision, Redwire is building the future of aerospace infrastructure, autonomous systems, and multi-domain operations, leveraging digital engineering and artificial intelligence (“AI”) automation.
+Redwire’s broad portfolio of airborne and space-based systems combine decades of flight heritage with an agile and innovative culture. Through its global operations, Redwire’s technologies are deployed across national security, civil, and commercial space and defense technology market segments globally. Operating out of 28 locations in North America and Europe, Redwire serves a diverse set of domestic and international customers. For a discussion of risks associated with our operations, refer to Item 1A. “Risk Factors.”
+Redwire’s strategy to accelerate growth includes bundled sales and increased levels of offering integrations, such as systems, payloads, space and airborne platforms and full mission solutions. Our strategy also includes strategic acquisitions to complement and expand the Company’s space and defense technologies. Our scale, reputation for quality and relationships allow us to be agile and innovative in our approach to pursuing growth through business models, partnerships and acquisitions.
+Effective December 1, 2025, the Company operated in two operating segments and two reportable segments: Space and Defense Tech. Refer to Note B – Summary of Significant Accounting Policies and Note U – Segment Reporting of the accompanying notes to the consolidated financial statements for additional information regarding this conclusion.
+Space Segment Business Strategy
+Redwire’s Space segment focuses on delivering next-generation spacecraft, large space infrastructure, and microgravity capabilities to serve civil, national security, and commercial space customers globally. Redwire’s core space offerings are flight-proven and have supported hundreds of spacecraft, missions, and operations, including, but not limited to, the International Space Station (“ISS”), European Space Agency’s (“ESA”) Project for On-Board Autonomy (“PROBA”) missions, National Aeronautics and Space Administration’s (“NASA”) Double Asteroid Redirection Test (“DART”) and Artemis I lunar mission, and Space Force’s GPS Satellite program.
+Next-Generation Spacecraft
+Redwire’s spacecraft portfolio features a lineup of five platforms - SabreSat, Phantom, Hammerhead, Thresher, and Mako - designed to operate across multiple orbits ranging from Very Low Earth Orbit (“VLEO”), Low Earth Orbit (“LEO”), Medium Earth Orbit (“MEO”), Geostationary Orbit (“GEO”) and beyond GEO (“X-GEO”). For VLEO, Redwire offers two spacecraft: U.S.-built SaberSat and the European-built Phantom spacecraft. Both VLEO spacecraft are designed to unlock capability in a less congested orbit where proximity to Earth provides imaging and low latency advantages. Redwire is the prime mission integrator on the Defense Advanced Research Projects Agency’s (“DARPA”) Otter program in the U.S., which is leveraging the SabreSat platform to develop a revolutionary air-breathing satellite system and will demonstrate the use of novel electric propulsion in VLEO. Additionally, Redwire’s Phantom spacecraft is being used on ESA’s Skimsat VLEO program.
+In LEO, Redwire offers its U.S.-built Thresher spacecraft. In MEO and GEO, Redwire offers its U.S.-built Mako spacecraft. Both platforms are designed for challenging missions that address dynamic space operations where maneuverability, precision accuracy, and autonomous operation are critical. Mako is designed for high precision rendezvous proximity operations (“RPO”), docking, and in-space refueling. It has the capability to support dynamic space operations and the adaptability to host a variety of mission payloads. Additionally, Mako serves space situational awareness and scientific missions at GEO and X-GEO orbits. Thresher is also highly maneuverable and is designed for rapid response, having demonstrated the capability to deliver within one year after contract award.
+Redwire also provides the EU-based LEO Hammerhead, a small satellite platform which is capable of supporting payloads of up to 70 kg and targets spacecraft with a mass of less than 200 kg, making it compatible with typical shared launch opportunities and small satellite launchers. The Hammerhead platform is an evolution of the PROBA platform, which has accumulated extensive flight heritage of more than 50 years in orbit without failure on any of the launched satellites. We are leading small satellite pioneering research missions like PROBA-1 and PROBA-3, ESA’s small satellite with fully autonomous capabilities, and PROBA-V, ESA’s operational Earth observation mission based on a small satellite. The PROBA-3 satellites demonstrate precision formation flying, a foundational building block to the advancement of future multi-satellite missions.
+Redwire also provides software that supports mission assessments and design of new missions such as operation in VLEO and dynamic space operations in GEO. Redwire’s digital engineering facilitates the modeling and simulation of prospective space architectures to support trade analysis, operational concepts, and testing. Redwire leverages high-fidelity digital engineering tools and
+Page 4
+model-based systems engineering to produce end-to-end virtual environments that decrease cost, increase speed to market, and enable mission optimization. Redwire has a proprietary enterprise software suite that enables digital engineering and generation of high-fidelity, interactive modeling and simulations of individual components, as well as entire spacecraft and full constellations in a cloud-based environment.
+Large Space Infrastructure
+Redwire is a leading innovator in space infrastructure, enabling space mission providers with the foundational building blocks and integrated solutions needed for complex space missions in areas including power generation and spacecraft docking. Redwire is developing critical space infrastructure that is impacting our terrestrial economy in areas, such as national security, global defense, telecommunications, navigation and timing, and Earth observation.
+Power generation is critical for space missions and Redwire offers a variety of solar array solutions for spacecraft, spanning the spectrum of size, power needs, and desired orbit. Redwire’s proprietary technologies, technical experience, and large-scale production facilities enable the Company to design, build, and deliver competitive power generation solutions tailored to customer needs. Redwire’s patented and award-winning Roll-Out Solar Array (“ROSA”) technology features an innovative “roll-out” design that uses composite booms to serve as both the primary structural elements and the deployment actuator, and a modular photovoltaic blanket assembly that can be configured into a variety of solar array architectures. When configured for launch, ROSA stows into a compact cylindrical volume yielding efficient space utilization, which allows extremely large solar arrays to be stowed compactly within launch vehicles.
+Redwire’s power systems have successfully deployed on several flight missions in LEO, GEO, and deep space, including on the ISS, NASA’s Imaging X-ray Polarimetry Explorer (“IXPE”) mission, and NASA’s DART mission.
+Additionally, to enable some of humanity’s most advanced missions in LEO and deep space, Redwire has developed a state-of-the-art docking system, the International Berthing and Docking Mechanism (“IBDM”), to support autonomous rendezvous and docking capabilities for spacecraft. The IBDM is fully computer-controlled and designed for use with both large mass and lightweight spacecraft. Redwire’s IBDM system is fully aligned with the international docking system standard and can be used for autonomous docking of crewed vehicles, cargo vehicles station modules as well as resource transfer through automated umbilical mating.
+Microgravity Development
+Microgravity provides unique conditions for scientific exploration which cannot be replicated on Earth. Redwire’s microgravity payloads are enabling next-generation capabilities and services, including space-based biotechnology applications, plant and animal science, in-space additive manu

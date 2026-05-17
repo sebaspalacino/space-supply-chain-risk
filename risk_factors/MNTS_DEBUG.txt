@@ -1,0 +1,254 @@
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 10-K
+(Mark One)
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2025
+OR
+o
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ____ to ____
+Commission file number 001-39128
+Momentus Inc.
+(Exact name of registrant as specified in its charter)
+Delaware
+84-1905538
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+1762 Automation Parkway
+San Jose, California
+95131
+(Address of Principal Executive Offices)
+(Zip Code)
+(650) 564-7820
+Registrant’s telephone number, including area code
+3901 N. First Street, San Jose, California 95134
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(g) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A common stock
+MNTS
+Nasdaq Stock Market LLC
+Warrants
+MNTSW
+Nasdaq Stock Market LLC
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+o
+No
+x
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes
+o
+No
+x
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days. Yes
+x
+No
+o
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T
+1
+Table of Contents
+(§ 232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).
+Yes
+x
+No
+o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company” “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+o
+Accelerated filer
+o
+Non-accelerated filer
+x
+Smaller reporting company
+x
+Emerging growth company
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+o
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the Registrant included in the filing reflect the correction of an error to previously issued financial statements.
+o
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the Registrant’s executive officers during the relevant recovery period pursuant to § 240.10D-1(b).
+o
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes
+o
+No
+x
+The registrant had outstanding 5,730,006 shares of Class A common stock as of March 27, 2026.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s definitive proxy statement for its 2026 annual stockholders’ meeting are incorporated by reference in Part III of this report. The registrant’s definitive proxy statement will be filed with the U.S. Securities and Exchange Commission within 120 days after December 31, 2025.
+Auditor Firm Id:
+1596
+Auditor Name:
+Frank, Rimerman + Co. LLP
+Auditor Location:
+San Francisco, CA
+2
+Table of Contents
+TABLE OF CONTENTS
+Page
+PART I
+Item 1. Business
+7
+Item 1A. Risk Factors
+14
+Item 1B. Unresolved Staff Comments
+38
+Item 1C. Cybersecurity
+38
+Item 2. Properties
+39
+Item 3. Legal Proceedings
+39
+Item 4. Mine Safety Disclosures
+39
+Part II
+Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+40
+Item 6. [ Reserved]
+41
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+41
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+50
+Item 8. Financial Statements and Supplementary Data
+51
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+110
+Item 9A. Controls and Procedures
+110
+Item 9B. Other Information
+111
+Item 9C. Disclosure Regarding Foreign Jurisdictions That Prevent Inspections
+111
+Part III.
+Item 10. Directors, Executive Officers and Corporate Governance
+112
+Item 11. Executive Compensation
+112
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+112
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+112
+Item 14. Principal Accounting Fees and Services
+112
+Part IV.
+Item 15. Exhibits, Financial Statement Schedules
+112
+Item 16. Form 10-K Summary
+118
+Signature
+118
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K (this “Form 10-K”), including, without limitation, statements under the headings “Management’s Discussion and Analysis of Financial Condition and Results of Operations,” includes forward‑looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, (the “Securities Act”) and Section 21E of the Securities Exchange Act of 1934, as amended, (the “Exchange Act”). Generally, statements that are not historical facts, including statements concerning Momentus Inc.’s (the “Company,” “Momentus,” “we,” “us,” or “our”) possible or assumed future actions, business strategies, events, or results of operations, are forward-looking statements. These forward-looking statements can be identified by the use of forward-looking terminology, including the words “believes,” “estimates,” “anticipates,” “expects,” “intends,” “plans,” “may,” “will,” “potential,” “projects,” “predicts,” “continue,” or “should,” or, in each case, their negative or other variations or comparable terminology, but the absence of these words does not mean that a statement is not forward-looking. There can be no assurance that actual results will not materially differ from expectations.
+The forward-looking statements contained in this Annual Report on Form 10-K are based on our current expectations and beliefs concerning future developments and their potential effects on us. Future developments affecting us may not be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control) and other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include, without limitation, the ability of the Company to raise additional capital to finance its longer-term business plan; the ability of the Company to obtain licenses and government approvals for its missions,
+3
+Table of Contents
+which are essential to its operations; the ability of the Company to effectively market and sell satellites and satellite components; the ability to market and sell transport services and planned in-orbit services; the ability of the Company to protect its intellectual property and trade secrets; the development of markets for small satellites and satellite transport and in-orbit services; the ability of the Company to develop, test and validate its technology, including its water plasma propulsion technology and Tape Spring Solar Array; delays or impediments that the Company may face in the development, manufacture and deployment of next generation satellite transport systems; the ability of the Company to convert backlog or inbound inquiries into revenue; changes in applicable laws or regulations and extensive and evolving government regulations that impact operations and business, including export control license requirements; the ability to attract or maintain a qualified workforce with the required security clearances and requisite skills; level of product service or product or launch failures or delays that could lead customers to use competitors’ services; investigations, claims, disputes, enforcement actions, litigation and/or other regulatory or legal proceedings; the possibility that the Company may be adversely affected by other economic, business, and/or competitive factors; and/or other risks and uncertainties described under Item 1A: “
+Risk Factors
+.” Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. We undertake no obligation to update or revise any forward‑looking statements, whether as a result of new information, future events, or otherwise, except as may be required under applicable securities laws. These risks and others described under Item 1A: “
+Risk Factors
+” may not be exhaustive.
+By their nature, forward-looking statements involve risks and uncertainties because they relate to events and depend on circumstances that may or may not occur in the future. We caution you that forward-looking statements are not guarantees of future performance and that our actual results of operations, financial condition and liquidity, and developments in the industry in which we operate may differ materially from those made in or suggested by the forward-looking statements contained in this Annual Report on Form 10-K. These statements are inherently uncertain and investors are cautioned not to unduly rely upon these statements. In addition, even if our results or operations, financial condition and liquidity, and developments in the industry in which we operate are consistent with the forward-looking statements contained in this Annual Report on Form 10-K, those results or developments may not be indicative of results or developments in subsequent periods.
+Summary of Risk Factors
+Risks Related to the Business and Industry of Momentus
+•
+We will require substantial additional funding to finance our operations but adequate additional financing may not be available when we need it, on acceptable terms, or at all.
+•
+We have incurred significant losses in the past, we expect to incur losses in the future and we may not be able to achieve or maintain profitability.
+•
+We may not be able to continue as a going concern.
+•
+We have delivered customer satellites and payloads into orbit using our service vehicles, and setbacks experienced during our future missions could have a material adverse effect on our business, financial condition, and results of operation and could harm our reputation.
+•
+We may be unable to raise additional capital needed to execute our business plan.
+•
+Our business is subject to the policies, priorities, regulations, mandates and funding levels of governmental entities and may be negatively or positively impacted by any change thereto.
+•
+We may not be successful in developing new technology, and the technology we are successful in developing may not meet the needs of our customers or potential new customers.
+•
+We operate in highly competitive industries and in various jurisdictions across the world which may cause us to have to reduce our prices.
+•
+Our limited operating history makes it difficult to evaluate its future prospects and the risks and challenges it may encounter.
+•
+The market for spaceflight and in-space infrastructure services has not been established with precision, and may grow more slowly than expected.
+•
+We may not be able to convert our customer contracts into revenue.
+•
+Our future revenue and operating results are dependent on our ability to generate a sustainable order rate for our products and services and develop new technologies to meet the needs of our customers or potential new customers.
+4
+Table of Contents
+•
+The cyclical nature of the space industry could negatively impact our ability to accurately forecast customer demand. We may not be able to achieve or maintain adequate gross margins or profits in these markets.
+•
+We may experience a total loss of our satellites and Orbital Service Vehicle and our customers’ payloads during the launch into space, and any insurance we have may not be adequate to cover our loss.
+•
+Our business involves significant risks and uncertainties that may not be covered by insurance.
+•
+If our spacecraft fail to operate as intended, it could have a material adverse effect on our business, financial condition, and results of operations.
+•
+Our revenue, results of operations and reputation may be negatively impacted if our products contain defects or fail to operate in the expected manner.
+•
+We rely on a limited number of suppliers for certain raw materials, specialized labor, and supplied components. We may not be able to obtain sufficient raw materials specialized labor, or supplied components to meet our manufacturing and operating needs or obtain such materials on favorable terms or at all, which could impair our ability to fulfill our orders in a timely manner or increase our costs of production.
+•
+We expect to face intense competition in satellite production, satellite transport, and related services and other services which we may develop in the space transportation industry.
+•
+If we fail to adequately protect our intellectual property rights or our intellectual property applications for registration fail to become issued or registered, our competitive position could be impaired.
+•
+We may experience warranty claims for failures, schedule delays or other problems with existing or new products.
+•
+Data breaches or incidents involving our technology could damage our business, reputation and brand and substantially harm our business and results of operations.
+•
+We are highly dependent on our senior management team and other highly skilled personnel.
+•
+Our operating results may fluctuate significantly, which makes our future operating results difficult to predict and could cause our operating results to fall below expectations or any guidance we may provide.
+•
+Our ability to use our net operating loss carryforwards and certain other tax attributes may be limited.
+•
+We may in the future be subject to substantial litigation, regulatory actions, government investigations, proceedings, and similar actions that could cause us to incur significant legal expenses and which could have a material adverse effect on our business, operating results, or financial condition.
+•
+Our restructurings and associated organizational changes may not adequately reduce our expenses, may lead to additional workforce attrition, and may cause operational disruptions.
+•
+The pursuit of additional capital and other strategic alternatives will consume a substantial portion of the time and attention of our management and require additional capital resources which may be disruptive to our business and could have a material adverse effect on our business, financial condition and results of operations.
+Regulatory Risks
+•
+We are subject to stringent U.S. export and import control laws and regulations. Our failure to comply with these laws and regulations could have a material adverse effect on our business, financial condition and results of operations.
+•
+Our business is subject to a wide variety of additional extensive and evolving government laws and regulations. Failure to comply with such laws and regulations could have a material adverse effect on our business.
+•
+Changes in U.S. government policy regarding use of commercial data or space infrastructure / mission providers, or material delay or cancellation of certain U.S. government programs, may have a material adverse effect on our customers, suppliers, revenues, operational delays, earnings and cash flow and our ability to achieve our growth objectives.
+•
+Contracts with the U.S. government subject us to risks including early termination, audits, investigations, sanctions, and penalties.
+5
+Table of Contents
+Risks Related to Ownership of our Class A Common Stock
+•
+If we fail to comply with the continued listing requirements of Nasdaq we face possible delisting, which would result in a limited public market for our shares and make obtaining future debt or equity financing more difficult for us.
+•
+The market price of our Class A common stock and warrants may be volatile, which could cause the value of your investment to decline.
+•
+Future sales of shares by Company officers, directors, other insiders or existing stockholders adversely affect the market price of our Class A common stock.
+•
+If securities and industry analysts do not publish research or reports, or publish inaccurate or unfavorable research or reports, about our business or our market, our stock price and trading volume could decline.
+•
+Our charter documents and Delaware law could prevent a takeover that stockholders consider favorable and could also reduce the market price of the Class A common stock.
+6
+Table of Contents
+PART I
+ITEM 1. Business
+Unless the context otherwise requires, all references in this section to the “Company,” “we,” “us,” or “our” refer to Momentus.
+Overview
+Momentus is a U.S. commercial space company that offers satellites, satellite buses, and other satellite components, transportation, communication, and infrastructure services, including hosted payloads and other in-orbit services. Government and commercial satellite operators and space technology companies and organizations are our principal customers and target customers. Momentus offers satellites and satellite buses and technology designed to meet the specific needs of government and commercial customers.
+Corporate History
+We were incorporated in the State of Delaware as Stable Road Acquisition Corp. on May 28, 2019. On August 12, 2021, Project Marvel First Merger Sub, Inc., a Delaware corporation and our wholly-owned merger sub (“First Merger Sub”) merged with and into Momentus Inc., a Delaware corporation (“Legacy Momentus”), with Legacy Momentus as the surviving corporation, and immediately following which Legacy Momentus merged with and into Project Marvel Second Merger Sub, LLC, a Delaware limited liability company and our wholly-owned merger sub (“Second Merger Sub”), with Second Merger Sub as the surviving entity (the “Business Combination”). In connection with the closing of the Business Combination (the “Closing”), the Company changed its name from Stable Road Acquisition Corp. to Momentus Inc., and Legacy Momentus changed its name to Momentus Space, LLC.
+Prior to the Business Combination, our units, public shares, and public warrants were listed on the Nasdaq under the symbols “SRACU,” “SRAC,” and “SRACW,” respectively. On August 13, 2021, the Company’s Class A common stock and public warrants began trading on the Nasdaq, under the symbols “MNTS” and “MNTSW,” respectively.
+Our Products and Services
+We provide or plan to provide satellites, satellite buses, solar arrays, and other satellite components. Our satellites and satellite technologies offer competitive advantages to customers such as greater payload capability, significant on-orbit power, flexibility of design and the a

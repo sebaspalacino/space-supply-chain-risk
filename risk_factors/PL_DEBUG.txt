@@ -1,0 +1,232 @@
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-K
+(Mark One)
+☒
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended
+January 31,
+2026
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from _______________ to _______________.
+Commission file number
+001-40166
+Planet Labs PBC
+(Exact name of registrant as specified in its charter)
+Delaware
+85-4299396
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+645 Harrison Street
+,
+Floor 4
+,
+San Francisco
+,
+California
+94107
+(Address of principal executive offices)
+(Zip Code)
+(
+415
+)
+829-3313
+Registrant's telephone number, including area code
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A common stock, par value $0.0001 per share
+PL
+New York Stock Exchange
+Warrants to purchase Class A common stock, at an exercise price of $11.50 per share
+PL WS
+New York Stock Exchange
+Securities registered pursuant to section 12(g) of the Act: None.
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+☒ No ☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes ☐
+No
+☒
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒ No ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act:
+Large accelerated filer
+☒
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☒
+If the securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes ☐ No
+☒
+As of the last business day of the registrant’s most recently completed second fiscal quarter, the aggregate market value of the voting and non-voting stock held by non-affiliates of the registrant, was
+$
+1,562,830,913
+based upon the closing price of the registrant’s Class A common stock on such date on the New York Stock Exchange.
+The registrant had
+322,655,231
+outstanding shares of Class A common stock and
+23,493,796
+outstanding shares of Class B common stock, as of March 17, 2026.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s definitive proxy statement for its 2026 Annual Meeting of Stockholders, which will be filed with the Securities and Exchange Commission within 120 days of January 31,
+2026
+, are incorporated by reference into Part III of this Annual Report on Form 10-K.
+Table of Contents
+TABLE OF
+CONTENTS
+Page
+Part I
+1
+Item 1. Business
+2
+Item 1A. Risk Factors
+11
+Item 1B. Unresolved Staff Comments
+61
+Item 1C. Cybersecurity
+61
+Item 2. Properties
+62
+Item 3. Legal Proceedings
+62
+Item 4. Mine Safety Disclosures
+62
+Part II
+63
+Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+63
+Item 6. [Reserved]
+64
+Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+65
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+84
+Item 8. Financial Stat
+ements and Supplementary Data
+85
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosures
+144
+Item 9A. Controls and Procedures
+144
+Item 9B. Other Information
+145
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections.
+145
+Part III
+145
+Item 10. Directors, Executive Officers and Corporate Governance
+145
+Item 11. Executive Compensation
+145
+Item 12. Security Ownership of Certain Beneficial Owner and Management and Related Stockholder Matters
+145
+Item 13. Certain Relationships and Related Transactions, and Director Independence
+145
+Item 14. Principal Accountant Fees and Services
+145
+Part IV
+146
+Item 15. Exhibits, Financial Statement Schedules
+146
+Item 16. Form 10-K Summary
+149
+Signatures
+150
+Table of Contents
+Part I
+Unless the context otherwise requires, the “Company”, “Planet”, “we,” “our,” “us” and similar terms refer to Planet Labs PBC, a Delaware public benefit corporation (f/k/a dMY Technology Group, Inc. IV, a Delaware corporation), and its consolidated subsidiaries.
+Cautionary Note Regarding Forward Looking Information
+This Annual Report on Form 10-K for the fiscal year ended January 31, 2026 (the “Form 10-K” or “this report”) includes statements that express Planet’s opinions, expectations, beliefs, plans, objectives, assumptions or projections regarding future events or future results and therefore are, or may be deemed to be, “forward-looking statements.” Words such as “expect,” “estimate,” “project,” “budget,” “forecast,” “anticipate,” “intend,” “plan,” “seek,” “may,” “will,” “could,” “can,” “should,” “would,” “believes,” “predicts,” “potential,” “strategy,” “opportunity,” “aim,” “continue,” and similar expressions or the negative thereof, or discussions of strategy, plans, objectives, intentions, estimates, forecasts, outlook, assumptions, or goals, are intended to identify such forward-looking statements. Forward-looking statements appear in a number of places throughout this report and include statements regarding our intentions, beliefs or current expectations concerning, among other things, our results of operations, financial condition, liquidity, prospects, growth, strategies and the markets in which Planet operates. Factors that may impact such forward-looking statements include:
+•
+our future financial performance, including expectations regarding our revenue, cost of revenue, operating expenses, capital expenditures, cash flows and our ability to achieve profitability;
+•
+our ability to attract and retain customers, including our ability to renew existing contracts and expand our relationships with existing customers;
+•
+our expectations regarding the value of our offerings to our customers over time;
+•
+our expectations regarding market growth, including our ability to grow in existing markets and expand into new markets;
+•
+our ability to continue to improve our data and offer software and analytic solutions to improve the value of our data;
+•
+our expectations regarding our satellite operations and our satellites’ orbital maneuver lives;
+•
+our expectations regarding our satellite services contracts and our ability to enter into new agreements for our satellite services;
+•
+our expectations regarding our investment in our sales and marketing, software platform development, machine learning, artificial intelligence and analytic tools as well as our applications and new satellite technologies;
+•
+our relationships with third-party partners, vendors and solution providers;
+•
+our expectations regarding our competition;
+•
+our ability to manage risks and challenges associated with our financial condition and results of operations;
+•
+our expectations regarding macroeconomic uncertainty and the geopolitical environment, including trade tensions and tariffs;
+•
+our expectations regarding climate change and its effects;
+•
+our expectations regarding the future impact of seasonality on our business;
+•
+our management of future growth and business operations;
+•
+our expectations regarding the realization of our U.S. and foreign deferred tax assets;
+•
+our expectations regarding our 2030 Notes;
+•
+our expectations regarding U.S. and foreign government regulations and penalties;
+•
+our ability to maintain, protect and enhance our intellectual property; and
+•
+the expenses associated with being a public company.
+1
+Table of Contents
+The foregoing list may not contain all of the forward-looking statements made in this Form 10-K. Such forward-looking statements are based on available current market material and our current expectations, beliefs and forecasts concerning future events and their potential effects on Planet. The outcome of the events described in these forward-looking statements is subject to known and unknown risks, uncertainties, and other factors, including those described in the “Risk Factors” section of this Form 10-K, as well as the other documents filed by us from time to time with the U.S. Securities and Exchange Commission (“SEC”). We operate in a rapidly changing environment. New risks and uncertainties emerge from time to time, and it is not possible for us to predict all risks and uncertainties that could have an impact on the forward-looking statements contained in this Form 10-K. We cannot assure you that the results, events, and circumstances reflected in the forward-looking statements will be achieved or occur, and actual results, events, or circumstances could differ materially from those described in the forward-looking statements.
+The forward-looking statements contained in this Form 10-K are based on information available to us at the time of filing of this Form 10-K and relate only to events as of the date on which the statements are made. We undertake no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+Item 1. B
+usiness
+Overview
+Planet’s mission is to use space to help life on Earth, by imaging the world every day and making global change visible, accessible, and actionable. We have designed, built, launched, and operated hundreds of satellites used to collect a powerful and growing data set of over 3,000 images on average for every point on Earth’s landmass, creating a non-replicable historical archive for analytics, machine learning, and insights. Complementing our foundational data offerings, we have advanced data processing capabilities that enable us to produce “AI-ready” data sets and offer AI-enabled solutions, either directly or through partnership with third parties. In addition, our satellite services arrangements provide a broad spectrum of advanced offerings to large scale government and enterprise customers, including designing and manufacturing customer-owned satellites. We also provide critical related services in these satellite services arrangements such as reliable mission systems engineering, launch procurement, ground station infrastructure, satellite operations, and maintenance. Separately, we also provide dedicated image tasking capacity on Company owned or customer owned satellites.
+Our satellite imagery, data and analytics reveal actionable insights regarding a large array of important phenomena, such as deforestation, agriculture, global security, maritime domain awareness, climate change, biodiversity, and supply chains worldwide. Our daily stream of proprietary data and machine learning analytics, delivered over our platform, helps companies, governments and civil society use satellite imagery to discover insights as change happens. Our customers can embed our Earth data and change detection capabilities into their workflows to better inform their decision-making processes. Our historical archive of global, daily imagery data enables back-testing of predictive analytics, which is particularly relevant for time-series forecasting, an important area in machine learning.
+As the demand for Earth observation intelligence grows, we are leveraging our mission-proven expertise to provide end-to-end spacecraft manufacturing and satellite services. By integrating design, manufacturing, and mission operations, we are able to significantly reduce the time from concept to orbit to provide customers with high-performance spacecraft and on-orbit mission services that complement our data and analytics products. We design and manufacture our satellites, which allows us to control the entire manufacturing lifecycle from initial component sourcing to orbital operation. This operational control facilitates the rapid deployment of specialized satellite constellations and mission-specific hardware for both our own data needs and for customers.
+2
+Table of Contents
+We currently serve customers across large commercial and government verticals, including agriculture, defense and intelligence, energy, forestry, finance, insurance and mapping, as well as federal, civil, state, and local governments. Our customers in government and commercial markets leverage our product capabilities to monitor and manage global change over broad areas to take action.
+We generate revenue primarily by selling licenses to our data and analytics to customers over a cloud-based platform via fixed price subscription and usage-based contracts. Most of our revenue is recurring in nature. We use a “one-to-many” data subscription model, as images we capture can be sold and leveraged for analytics an unlimited number of times. We believe this is different from legacy Earth observation providers that sell individual images exclusively to a single customer. In addition, we generate revenue through long-term milestone based satellite services arrangements, in which we utilize our standardized bus architecture used for our own satellites to provide large-scale government and enterprise customers with advanced offerings, including mission systems engineering, launch procurement, ground station infrastructure, satellite operations, and maintenance.
+Our business model is aligned with our mission and public benefit purpose: to accelerate humanity toward a more sustainable, secure and prosperous world by illuminating environmental and social change. We are dedicated to the continuous pursuit of creating an unbiased, scientifically accurate, and trusted source of data about the changing planet.
+Industry Trends
+We believe that the increasing call for global peace and security, as well as the digital and sustainability transformations of the global economy, are fueling a need for a greater volume of and more rapidly delivered Earth observation data. We believe that we can accelerate this transformation by providing valuable Earth data that businesses and governments can utilize to better measure and monitor change in physical assets.
+Peace & Security:
+Organizations such as governments, Non-Governmental Organizations (“NGOs”), media and think tanks are tackling increasingly complex global challenges on a daily basis. We believe that our satellite imagery, satellite hardware development capabilities, and tools can help enable unbiased, factual, and timely reporting and decision making by governments, NGOs, media and think tanks. Further, we believe the data from space that we provide is critical to global transparency and to encourage peace and security.
+Digital Transformation:
+Organizations across industries are driving operational improvements and taking advantage of new growth opportunities by leveraging third-party data, their own proprietary data, and artificial intelligence technologies, including generative artificial intelligence technology (“GenAI”), machine learning, computer vision and large language models (“LLMs”) (collectively, “AI”), all of which are driving a digital economic shift across many sectors. In addition, as more organizations digitize their workflows, it is increasingly important to deliver solutions that are cloud-native to take advantage of the cost savings and scale derived from cloud technologies.
+Sustainability Transformation:
+Organizations globally are focused on proactively managing their environmental impact and operating more sustainably. While regulations overseeing environmental impact and sustainability are subject to policy makers’ priorities in each country or region, we believe the shift toward monitoring and managing environmental outcomes and responding to natural disasters will continue; and that satellite imagery and capabilities are a critical component of effective and broad-scale sustainability solutions.
+Overall, we believe these transformational shifts are driving demand for near real-time understanding of the impact of global changes across the Earth. The first step for organizations undergoing the digital and sustainability transformations, as well as those seeking to establish and maintain peace and security, is to understand context and consistently measure and monitor relevant data. With shared context and metrics, we believe that businesses and governments can improve operational efficiency, resource allocation, risk mitigation, and strategic decision making with data-enabled applications.
+3
+Table of Contents
+Our Technology
+We built Planet on the concept of “agile aerospace” methodology: the rapid development and deployment of new space-based hardware and related software systems, similar to the “agile software” approach of releasing early and often to rapidly iterate capabilities. By harnessing trends in miniaturization, we have built, launched, and maintained hundreds of compact, powerful satellites at a significantly lower cost than traditional aerospace companies, an improvement that we believe is similar to the transition from the mainframe computer to the desktop computer. This has enabled us to leverage industry innovations in AI, computing, and cloud-based storage to house and analyze a distinctive data set of daily Earth changes, and to build market-leading tools to help customers and partners extract value from those data sets. Our innovation in agile aerospace has also enabled us to improve the cost-performance of satellite manufacturing, ground stations, and mission operations.
+Our Fleet
+We have deployed a constellation of compact, high-performance satellites that capture a daily data set of global changes at a significantly lower cost than traditional models. This continuous stream of imagery serves as the foundational intelligence layer for the advanced analytics and cross-sector tools that empower our customers to extract immediate value.
+Monitoring:
+Our SuperDove satellites work together to create an always-online scanner for the planet with the goal to image the Earth every day at a resolution (Ground Sampling Distance, “GSD”) of u

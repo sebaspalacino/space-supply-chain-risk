@@ -1,0 +1,20 @@
+{
+  "generated": "2026-05-16T19:09:41.087334Z",
+  "model": "claude-sonnet-4-5",
+  "input_rows": 448,
+  "validated_kept": 353,
+  "rejected": 95,
+  "rejection_rate_pct": 21.2,
+  "api_calls_made": 427,
+  "cache_hits": 21,
+  "errors": 0,
+  "rejection_breakdown": {
+    "Named entity misfire": 13,
+    "Accounting / pricing context": 4,
+    "Listing / capability description": 29,
+    "Mitigated / compliant context": 16,
+    "Other": 18,
+    "Definitional / regulatory boilerplate": 7,
+    "Incidental market mention": 8
+  }
+}

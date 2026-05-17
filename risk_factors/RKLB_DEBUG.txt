@@ -1,0 +1,234 @@
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+______________________________________________________
+FORM 10-K
+______________________________________________________
+(Mark One)
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2025
+OR
+o
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+FOR THE TRANSITION PERIOD FROM TO
+Commission File Number 001-39560
+______________________________________________________
+ROCKET LAB CORPORATION
+(Exact name of Registrant as specified in its Charter)
+______________________________________________________
+Delaware
+39-2182599
+(State or other jurisdiction of incorporation or organization)
+(I.R.S. Employer Identification No.)
+3881 McGowen Street
+Long Beach, California
+90808
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code: (714) 465-5737
+______________________________________________________
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, par value $0.0001 per share
+RKLB
+The Nasdaq Stock Market LLC
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the Registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act. Yes
+x
+No
+o
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section 13 or 15(d) of the Act. Yes
+o
+No
+x
+Indicate by check mark whether the Registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes
+x
+No
+o
+Indicate by check mark whether the Registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the Registrant was required to submit such files). Yes
+x
+No
+o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large Accelerated Filer
+x
+Accelerated filer
+o
+Non-accelerated filer
+o
+Smaller reporting company
+o
+Emerging growth company
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+x
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+o
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+o
+Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). Yes
+o
+No
+x
+The aggregate market value of the registrant’s common stock, $0.0001 par value per share, held by non-affiliates of the registrant on June 30, 2025, the last business day of the registrant’s most recently completed second fiscal quarter, was $14.9 billion (based on the closing sales price of the registrant’s common stock on that date). Shares of the registrant’s common stock held by each officer and director and each other person who may be deemed to be an affiliate of the registrant have been excluded from the computation. This determination of affiliate status with respect to the foregoing calculation is not necessarily a conclusive determination for other purposes.
+As of February 20, 2026, the registrant had 567,445,449 shares of common stock, $0.0001 par value per share, outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+Information required by Part III of this Form 10-K is incorporated by reference to the registrant’s proxy statement or the Proxy Statement, for the 2026 annual meeting of stockholders, which proxy statement will be filed with the Securities and Exchange Commission within 120 days after the end of the fiscal year covered by this Form 10-K.
+Table of Contents
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+Certain statements in this Annual Report on Form 10-K may constitute “forward-looking statements” for purposes of the federal securities laws. The information included in this Annual Report on Form 10-K has been provided by us and our management, and such forward-looking statements include statements relating to the expectations, hopes, beliefs, intentions or strategies regarding the future of Rocket Lab Corporation (the “Company” or “Rocket Lab”) and its management team. In addition, any statements that refer to projections, forecasts or other characterizations of future events or circumstances, including any underlying assumptions, are forward-looking statements. The words “anticipate,” “believe,” “could,” “expect,” “intends,” “may,” “might,” “plan,” “potential,” “predict,” “project,” “should,” “will,” “would” and similar expressions may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. The forward-looking statements contained in this Annual Report on Form 10-K are based on current expectations and beliefs concerning future developments and their potential effects on Rocket Lab. There can be no assurance that future developments affecting us will be those that we have anticipated. These forward-looking statements involve a number of risks, uncertainties (some of which are beyond our control) or other assumptions that may cause actual results or performance to be materially different from those expressed or implied by these forward-looking statements. These risks and uncertainties include, but are not limited to, those factors described below and under the heading “Risk Factors.”
+•
+Our ability to effectively manage future growth and achieve operational efficiencies;
+•
+any inability of us to operate our Electron Launch Vehicle (“Electron”) at its anticipated launch rate, including due to any government action related to launch failure and our ability to operate, could adversely impact our business, financial condition and results of operations;
+•
+our inability to develop our Neutron Launch Vehicle (“Neutron”) or significant delays in developing Neutron could adversely impact our business, financial condition and results of operations;
+•
+success in retaining or recruiting, or changes required in, officers, key employees or directors, and our ability to attract and retain key personnel, including Sir Peter Beck, our President, Chief Executive Officer and Chairman;
+•
+our inability to utilize our launch pads at our private launch complex in Mahia, New Zealand or at NASA’s Wallops Flight Facility, at Wallops Island, Virginia with sufficient frequency to support our launch cadence and future related revenue growth expectations could adversely impact our business, financial condition and results of operations;
+•
+our spacecraft, space systems or space system components failing to operate as intended could have a material adverse effect on our business, financial condition and results of operations;
+•
+changes in the competitive and highly regulated industries in which we operate, variations in operating performance across competitors, changes in laws and regulations affecting our business and changes in our capital structure;
+•
+changes in governmental policies, priorities, regulations, mandates or funding for programs in which we or our customers participate, which could negatively impact our business;
+•
+changes in trade policies, including tariffs;
+•
+loss of, or default by, one or more of our key customers or inability of customers to fund contractual commitments, which could result in a decline in future revenues, cancellation of contracted launches or space systems orders or termination or default of existing agreements;
+•
+the inability to comply with, and costs associated with complying, any applicable regulations, and specifically, United States (“U.S.”) government contract regulations, which could result in loss of contract opportunities, contract modifications or termination, assessment of penalties and fines, and suspension or debarment from U.S. government contracting or subcontracting;
+•
+defects in or failure of our products to operate in the expected manner, including any launch failure, which could result in a loss of revenue, impact our business, prospects and profitability, increase our insurance rates and damage our reputation and ability to obtain future customers;
+•
+inability or failure to protect intellectual property;
+•
+disruptions in the supply of key raw materials or components used to produce our products or increases in prices of raw materials, including restrictions on our ability to obtain rare earth minerals;
+i
+Table of Contents
+•
+the ability to implement our business plans, forecasts and other expectations, including the integration of recently acquired businesses, and to identify and realize additional opportunities;
+•
+the diversion of management’s attention and consumption of resources as a result of acquisitions of other companies and success in integrating and otherwise achieving the benefits of recent and potential acquisitions;
+•
+our inability to effectively integrate or benefit from recently purchased assets or businesses;
+•
+global inflation and interest rates;
+•
+impacts of the war in Ukraine or other global conflicts;
+•
+fluctuations in foreign exchange rates;
+•
+the risk of downturns in government and commercial launch services and spacecraft industries;
+•
+our ability to anticipate changes in the markets for rocket launch services, mission services, spacecraft and spacecraft components;
+•
+the inability or failure to comply with contractual requirements or covenants;
+•
+failure to maintain adequate operational and financial resources or raise additional capital or generate sufficient cash flows;
+•
+any significant disruption in or unauthorized access to our computer systems or those of third parties that we utilize in our operations, including those relating to cybersecurity or arising from cyber-attacks; and
+•
+other factors detailed under the section of this Annual Report on Form 10-K entitled “Risk Factors.”
+Should one or more of these risks or uncertainties materialize, or should any of our assumptions prove incorrect, actual results may vary in material respects from those projected in these forward-looking statements. Some of these risks and uncertainties may in the future be amplified by a global crises and/or any response to such a crisis and there may be additional risks that we currently consider immaterial or which are unknown. It is not possible to predict or identify all such risks. We do not undertake any obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as may be required under applicable securities laws.
+You should read this Annual Report on Form 10-K and the documents that we reference in this Annual Report on Form 10-K and have filed with the Securities and Exchange Commission (the “SEC”) as exhibits to this Annual Report on Form 10-K with the understanding that our actual future results, levels of activity, performance and events and circumstances may be materially different from what we expect. All forward-looking statements are qualified in their entirety by this cautionary statement.
+You should also note that we may announce material business and financial information to our investors using our website (including at https://investors.rocketlabcorp.com), filings with the SEC, webcasts, press releases, and conference calls. We use these mediums, as well as our official corporate accounts on social media outlets such as X (formerly Twitter), Facebook, LinkedIn, Instagram, Bluesky and YouTube, to broadcast our launches and other significant events, and to communicate with the public about our company, our products, and other matters. It is possible that the information that we make available may
+be deemed to be material information. We therefore encourage investors and others interested in our company to review the information that we make available on our website and through our other official social media channels. The information contained on, or that can be accessed through, our website or our social media channels is not a part of this Annual Report on Form 10-K.
+Unless the context requires otherwise, references in this Annual Report to “Rocket Lab,” “Company,” “we,” “us” and “our” refer to Rocket Lab Corporation and our subsidiaries.
+ii
+Table of Contents
+Table of Contents
+Page
+PART I
+Item 1.
+Business
+4
+Item 1A.
+Risk Factors
+17
+Item 1B.
+Unresolved Staff Comments
+38
+Item 1C.
+Cybersecurity
+39
+Item 2.
+Properties
+40
+Item 3.
+Legal Proceedings
+41
+Item 4.
+Mine Safety Disclosures
+41
+PART II
+Item 5.
+Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities
+42
+Item 6.
+[Reserved]
+42
+Item 7.
+Management’s Discussion and Analysis of Financial Condition and Results of Operations
+43
+Item 7A.
+Quantitative and Qualitative Disclosures About Market Risk
+55
+Item 8.
+Financial Statements and Supplementary Data
+55
+Item 9.
+Changes in and Disagreements With Accountants on Accounting and Financial Disclosure
+55
+Item 9A.
+Controls and Procedures
+56
+Item 9B.
+Other Information
+57
+Item 9C.
+Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+57
+PART III
+Item 10.
+Directors, Executive Officers and Corporate Governance
+58
+Item 11.
+Executive Compensation
+58
+Item 12.
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+58
+Item 13.
+Certain Relationships and Related Transactions, and Director Independence
+58
+Item 14.
+Principal Accounting Fees and Services
+58
+PART IV
+Item 15.
+Exhibits, Financial Statement Schedules
+59
+Item 16.
+Form 10-K Summary
+62
+Index to Consolidated Financial Statements
+F- 1
+iii
+Table of Contents
+PART I
+Item 1. Business
+Who We Are
+Our Mission: We Open Access to Space to Improve Life on Earth.
+Rocket Lab is an end-to-end space company with an established track record of mission success. We deliver reliable launch services, spacecraft design services, spacecraft components, spacecraft manufacturing, optical systems and other spacecraft and on-orbit management solutions that make it faster, easier and more affordable to access space. We believe that space has defined some of humanity’s greatest achievements and it continues to shape our future. We are motivated by the impact we can have on Earth by making it easier to get to space and using it as a platform for innovation, exploration and infrastructure.
+As one of select few commercial companies delivering regular access to orbit, our proven launch vehicle, spacecraft technology and global infrastructure uniquely position us to grow in this dynamic market. Advances in technologies, materials and components have led to miniaturization of spacecraft and a significant reduction in cost and time-to-market, concurrent with the increase in demand for space applications such as communications, remote sensing, Earth observation, meteorology and navigation. We provide customers with frequent, reliable and cost-effective access to orbit with Electron, a fully carbon composite launch vehicle powered by Rutherford, our electric turbopump 3D printed engines. Since our first Electron launch in 2017 through December 31, 2025, we have delivered over 200 spacecraft to orbit across 75 successful missions for commercial and government customers, including the United States (“U.S.”) Department of War (“DoW”), the National Aeronautics and Space Administration (“NASA”), the Defense Advanced Research Projects Agency (“DARPA”), the National Reconnaissance Office (“NRO”), and a number of domestic and international commercial spacecraft operators including Blacksky Holdings, Canon, Kinéis, Capella Space, Planet, OHB Group and Synspective. In 2025, Electron was the second most frequently launched orbital rocket.
+Rocket Lab’s frequent launch cadence has been enabled through innovative manufacturing techniques for Electron, including 3D printing and automation, but production is only part of the formula for frequent and reliable launch. We believe our launch infrastructure is a key part of our success. We currently operate a private launch complex located in Mahia, New Zealand, which we refer to as Launch Complex 1 (“LC-1”). This launch complex is supported by a bi-lateral treaty between the United States and New Zealand governments that enables us to use U.S. launch and spacecraft technology for launches at LC-1 that otherwise would not be permitted for launches from foreign soil. This treaty provides us with a competitive advantage over other companies launching rockets from outside the U.S. that do not have the benefit of such a treaty. Additionally, by operating our own private launch complex, we do not have to share the launch complex with other launch providers and, subject to obtaining required regulatory clearances for launches, we have complete control over launch schedule and availability. LC-1 serves as our high-volume launch complex, with two launch pads capable of supporting up to 120 missions every year. We also operate a dedicated launch pad at NASA’s Wallops Flight Facility, at Wallops Island, Virginia, which we refer to as Launch Complex 2 (“LC-2”). LC-2 can support 24-hour rapid call-up capability for defense needs and urgent constellation replenishment and is currently licensed to launch 8 missions per year. We are currently constructing a dedicated launch pad located at the Mid-Atlantic Regional Spaceport within the NASA Wallops Flight Facility in Wallops Island, Virginia as a third launch complex, which we refer to as Launch Complex 3 (“LC-3”). LC-3 is being developed to receive and integrate Neutron launch vehicles.
+Building on our strong foundation with Electron, we are now developing our Neutron launch vehicle. We anticipate Neutron will have a payload capacity of approximately 13,000 kg for reusable configuration launches to low Earth orbit and support lighter payloads for higher orbits. Neutron is tailored for large constellation deployments, interplanetary missions and potentially for human spaceflight. We expect constellation missions to make up an increasing percentage of small spacecraft launched, versus bespoke or one-off missions. As such, Neutron will be an important part of our end-to-end space solution as it is tailored to meet demand from this growing market.
+Consistent with our endeavor to provide end-to-end space solutions for our customers, Rocket Lab has expanded beyond launch services into space systems, delivering spacecraft design services, spacecraft components, spacecraft manufacturing, optical systems and other spacecraft and on-orbit management solutions that mak

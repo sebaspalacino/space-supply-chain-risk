@@ -1,0 +1,272 @@
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________________
+FORM 10-K
+____________________________
+(Mark One)
+x
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the fiscal year ended December 31, 2025
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from ______ to ______
+Commission file number 001-40823
+____________________________
+INTUITIVE MACHINES, INC.
+(Exact name of registrant as specified in its charter)
+____________________________
+Delaware
+36-5056189
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+13467 Columbia Shuttle Street
+Houston, Texas
+77059
+(Address of Principal Executive Offices)
+(Zip Code)
+(281) 520-3703
+Registrant's telephone number, including area code
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Class A Common Stock, par value $0.0001 per share
+LUNR
+The Nasdaq Stock Market LLC
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.
+Yes
+x
+No
+o
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.
+Yes
+o
+No
+x
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports); and (2) has been subject to such filing requirements for the past 90 days. Yes
+x
+No
+o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes
+x
+No
+o
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files). Yes
+x
+No
+o
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act. (Check one):
+Large accelerated filer
+o
+Accelerated filer
+o
+Non-accelerated filer
+x
+Smaller reporting company
+x
+Emerging growth company
+x
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+o
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit report.
+☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect the correction of an error to previously issued financial statements.
+o
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b).
+☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act). Yes
+o
+No
+x
+The aggregate market value of voting stock held by non-affiliates of the registrant on June 30, 2025, based on the closing price of $10.87 for shares of the registrant’s Class A Common Stock as reported by the Nasdaq Stock Market, was approximately $1.3 billion.
+As of March 11, 2026, the Registrant had 159,372,567 shares of Class A common stock, $0.0001 par value, 0 shares of Class B common stock, $0.0001 par value, and 57,428,185 shares of Class C common stock, $0.0001 par value, outstanding.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s definitive proxy statement for its 2026 Annual Meeting of Stockholders, which is to be filed no later than 120 days after December 31, 2025, are incorporated by reference into Part III of this Annual Report on Form 10-K.
+Table of Contents
+INTUITIVE MACHINES, INC.
+Table of Contents
+Page
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+i
+SUMMARY RISK FACTORS
+iii
+PART I
+Item 1. Business
+1
+Item 1A. Risk Factors
+9
+Item 1B. Unresolved Staff Comments
+31
+Item 1C. Cybersecurity
+32
+Item 2. Properties
+33
+Item 3. Legal Proceedings
+33
+Item 4. Mine Safety Disclosures
+34
+PART II
+Item 5. Market for the Registrant’s, Common Equity, Related Shareholder Matters and Issuer Purchases of Equity Securities
+35
+Item 6. Reserved
+35
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+36
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk
+51
+Item 8. Financial Statements and Supplementary Data
+52
+Item 9. Changes in and Disagreements with Accountants on Accounting and Financial Disclosure
+101
+Item 9A. Controls and Procedures
+101
+Item 9B. Other Information
+102
+Item 9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections
+102
+PART III
+Item 10. Directors, Executive Officers and Corporate Governance
+103
+Item 11. Executive Compensation
+103
+Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters
+103
+Item 13. Certain Relationships and Related Transactions and Director Independence
+103
+Item 14. Principal Accountant Fees and Services
+103
+PART IV
+Item 15. Exhibits and Financial Statement Schedules
+104
+Item 16. Form 10-K Summary
+106
+Signatures
+107
+Table of Contents
+Each of the terms the “Company,” “Intuitive Machines,” “IM,” “we,” “us,” or “our” and similar terms used herein refer collectively to Intuitive Machines, Inc. (formerly known as Inflection Point Acquisition Corp or “IPAX”) and its consolidated subsidiaries, unless otherwise stated.
+CAUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS
+This Annual Report on Form 10-K (the “Annual Report”) contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. We intend such forward-looking statements to be covered by the safe harbor provisions for forward-looking statements contained in Section 27A of the Securities Act of 1933, as amended (the “Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (“the Exchange Act”). All statements other than statements of historical facts contained in this Annual Report are forward-looking statements. Such statements can be identified by the fact that they do not relate strictly to historical or current facts. When used in this Annual Report, words such as “anticipate,” “believe,” “continue,” “could,” “estimate,” “expect,” “intend,” “may,” “might,” “plan,” “possible,” “potential,” “predict,” “project,” “should,” “strive,” “would,” “strategy,” “outlook,” the negative of these words or other similar expressions may identify forward-looking statements, but the absence of these words does not mean that a statement is not forward-looking. These forward-looking statements include, but are not limited to state
+ments regarding our expectations and plans relating to our missions to the Moon and other projects, including the expected timing thereof and our progress and preparation thereof; our expectations with respect to, among other things, demand for our product portfolio, our submission of bids for contracts; our expectations regarding protests of government contracts awarded to us; our operations, our financial performance and our industry; our business strategy, business plan, and plans to drive long term sustainable shareholder value; and our expectations on revenue and cash generation.
+Our actual results, performance or achievements may differ materially from those expressed or implied by the forward-looking statements, and you are cautioned not to place undue reliance on these forward-looking statements. The following important factors and uncertainties, among others, could cause actual outcomes or results to differ materially from those indicated by the forward-looking statements in this Annual Report:
+•
+our reliance upon the efforts of our key personnel and Board of Directors (the “Board”) to be successful;
+•
+as part of growing our business, we have made and may continue to make acquisitions. Any acquisitions, partnerships or joint ventures into which we enter subject to integration risks and could disrupt our operations;
+•
+our failure to manage our growth effectively and failure to win new contracts;
+•
+our ability to generate a sustainable order rate for the satellite and space operations and develop new technologies to meet the needs of our customers or potential new customers;
+•
+our customer concentration;
+•
+limited operating history;
+•
+competition from existing or new companies;
+•
+disruptions in U.S. government operations and funding, including government shutdowns;
+•
+unsatisfactory safety performance of our spaceflight systems or security incidents at our facilities;
+•
+failure of the market for commercial spaceflight to achieve the growth potential we expect;
+•
+any delayed launches, launch failures, failure of landers to conduct all mission milestones, failure of our satellites to reach their planned orbital locations, failure of lunar landers to reach their planned locations, significant increases in the costs related to the launches of satellites and lunar landers, and insufficient capacity available from satellite developers and launch service providers;
+•
+risks associated with commercial spaceflight, including any accident on launch or during the journey into space;
+•
+risks associated with the handling, production and disposition of potentially explosive and ignitable energetic materials and other dangerous chemicals in our operations;
+•
+our reliance on a limited number of suppliers for certain materials and supplied components, including a single launch service provider for our lunar missions;
+•
+failure of our products to operate in the expected manner or defects in our sub-systems;
+•
+the future revenue and operating results of the satellite integrated build capability are dependent on our ability to generate a sustainable order rate for the satellite and space operations and develop new technologies to meet the needs of our customers or potential new customers;
+i
+Table of Contents
+•
+counterparty risks on customer contracts and failure of our prime contractors to maintain their relationships with their counterparties and fulfill their contractual obligations;
+•
+failure to successfully defend protest from other bidders for government contracts;
+•
+failure to comply with various laws and regulations relating to various aspects of our business, uncertainty in the regulatory environment and any changes in the funding levels of various governmental entities with which we do business;
+•
+our failure to protect the confidentiality of our trade secrets and unpatented know-how;
+•
+our failure to comply with the terms of third-party open source software our systems utilize;
+•
+our ability to maintain an effective system of internal control over financial reporting, and to address and remediate any material weaknesses in our internal control over financial reporting;
+•
+we may use artificial intelligence (“AI”) in our business or systems, and challenges with properly managing its use could result in competitive and reputational harm;
+•
+the U.S. government’s budget deficit and the national debt, as well as any inability of the U.S. government to complete its budget process for any government fiscal year that may result in government shutdowns or extended continuing resolution and our dependence on U.S. government contracts and the available funding or changing funding priorities by the U.S. government;
+•
+our failure to comply with U.S. export and import control laws and regulations and U.S. economic sanctions and trade control laws and regulations;
+•
+uncertain macro-economic and political conditions and elevated inflation and interest rates;
+•
+our history of losses and failure to achieve profitability in the future or failure of our business to generate sufficient funds to continue operations;
+•
+the cost and potential outcomes of pending and any future litigation;
+•
+our public securities’ potential liquidity and trading;
+•
+the sufficiency and anticipated use of our existing capital resources to fund our future operating expenses and capital expenditure requirements and needs for additional financing in light of our recent acquisitions; and
+•
+other factors detailed in Part I, Item 1A. “Risk Factors” in this Annual Report.
+These forward-looking statements are based on information available as of the date of this Annual Report and current expectations, forecasts, and assumptions, and involve a number of judgments, risks, and uncertainties. Accordingly, forward-looking statements should not be relied upon as representing our views as of any subsequent date. Although we believe that we have a reasonable basis for each forward-looking statement contained in this Annual Report on Form 10-K, such information may be limited or incomplete, and our statements should not be read to indicate that we have conducted an exhaustive inquiry into, or review of, all potentially available relevant information.
+We do not undertake any obligation to update forward-looking statements to reflect events or circumstances after the date they were made, whether as a result of new information, future events, or otherwise, except as may be required under applicable securities laws.
+ii
+Table of Contents
+SUMMARY RISK FACTORS
+Our business is subject to numerous risks and uncertainties, including those highlighted in the section entitled “Risk Factors” immediately following this Annual Report, that represent challenges that we face in connection with the successful implementation of our strategy and the growth of our business. In particular, the following considerations, among others, may offset our competitive strengths or have a negative effect on our business strategy, which could cause a decline in the price of shares of our Class A Common Stock and result in a loss of all or a portion of your investment:
+•
+Our ability to be successful depends upon the efforts of our Board and our key personnel and the loss of such persons could negatively impact the operations and profitability of our business.
+•
+As part of growing our business, we have made and may continue to make acquisitions. Any acquisitions, partnerships or joint ventures into which we enter subject us to integration risk and could disrupt our operations and have a material adverse effect on our business, financial condition, and results of operations.
+•
+If we fail to manage our growth effectively, we may be unable to execute our business plan and our business, results of operations, and financial condition could be harmed.
+•
+We have a history of net operating losses and may not achieve profitability in the future. We may need additional capital to fund our operations. If we fail to obtain additional capital, we may be unable to sustain operations.
+•
+The future revenue and operating results of the satellite integrated build capability are dependent on our ability to generate a sustainable order rate for the satellite and space operations and develop new technologies to meet the needs of our customers or potential new customers.
+•
+Our limited operating history makes it difficult to evaluate our future prospects and the risks and challenges we may encounter.
+•
+Customer concentration creates risks for our business.
+•
+Competition from existing or new companies could cause us to experience downward pressure on prices, fewer customer work orders, reduced margins, the inability to take advantage of new business opportunities, and the loss of market share.
+•
+Disruptions in U.S. government operations and funding, including government shutdowns, could harm our business, financial condition, and results of operations could be harmed.
+•
+Unsatisfactory safety performance of our spaceflight systems or security incidents at our facilities could have a material adverse effect on our business, results of operations, and financial condition.
+•
+If any of our systems, the systems of any critical Third Parties upon which we rely or our customers’ systems are, or appear to be, breached, damaged, or if unauthorized processing of customer or third-party data is otherwise performed, public perception of our products services may be harmed, and we may lose business and incur losses or liabilities.
+•
+The market for commercial spaceflight is still emerging and may not achieve the growth potential we expect or may grow more slowly than expected.
+•
+We may experience delayed launches, launch failures, failure of lunar landers to reach their planned locations, failure of landers to conduct all mission milestones, significant increases in the costs related to launches of lunar landers, and insufficient capacity available from lunar lander launch providers. Any such issue could result in the loss of our lunar landers or cause significant delays in their deployment, which could harm our business, results of operations and financial condition.
+•
+We may experience delayed satellite launches, failure of our satellites to reach their planned orbital locations, significant increases in production costs of our satellites. Any such issue could harm our business, results of operations, and financial condition.
+•
+We rely on a limited number of suppliers for certain materials and supplied components, including a single launch provider for our lunar missions. We may not be able to obtain sufficient materials or supplied components to meet our manufacturing and operating needs, or obtain such materials on favorable terms.
+iii
+Table of Contents
+•
+Our revenue, results of operations and reputation may be negatively impacted if our products contain defects or fail to operate in the expected manner.
+•
+Rising inflation and costs may materially impact our business, results of operations, and financial condition.
+•
+We are dependent on technology and automated systems to operate our business.
+•
+We may use artificial intelligence (“AI”) in our business or systems, and challenges with properly managing its use could result in competitive and reputational harm and negatively impact the operations and profitability of our business.
+•
+If our prime contractors fail to maintain their relationships with their counterparties and fulfill their contractual obligations, our performance as a subcontractor and our ability to obtain future business could be materially and adversely impacted and our actual results could differ materially and adversely from those anticipated.
+•
+We are subject to counterparty risk on contracts with our customers. If a counterparty to one of our contracts were to default or otherwise fail to perform or be delayed in its performance on any of its contractual obligations to us, such default, failure to perform or delay could have a material adverse effect on our business, results of operation, and financial condition.
+•
+If we are unable to protect 

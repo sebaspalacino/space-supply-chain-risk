@@ -1,0 +1,167 @@
+[
+  {
+    "company": "Rocket Lab USA",
+    "ticker": "RKLB",
+    "status": "ok",
+    "filing_date": "2026-02-26",
+    "accession_number": "0001819994-26-000013",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1819994/000181999426000013/rklb-20251231.htm",
+    "output_file": "risk_factors\\RKLB_risk_factors.txt",
+    "risk_factors_chars": 116318,
+    "error": null
+  },
+  {
+    "company": "Intuitive Machines",
+    "ticker": "LUNR",
+    "status": "ok",
+    "filing_date": "2026-03-19",
+    "accession_number": "0001628280-26-019865",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1844452/000162828026019865/lunr-20251231.htm",
+    "output_file": "risk_factors\\LUNR_risk_factors.txt",
+    "risk_factors_chars": 144809,
+    "error": null
+  },
+  {
+    "company": "Redwire Corporation",
+    "ticker": "RDW",
+    "status": "ok",
+    "filing_date": "2026-02-27",
+    "accession_number": "0001819810-26-000029",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1819810/000181981026000029/rdw-20251231.htm",
+    "output_file": "risk_factors\\RDW_risk_factors.txt",
+    "risk_factors_chars": 203982,
+    "error": null
+  },
+  {
+    "company": "Virgin Galactic",
+    "ticker": "SPCE",
+    "status": "ok",
+    "filing_date": "2026-03-30",
+    "accession_number": "0001706946-26-000019",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1706946/000170694626000019/spce-20251231.htm",
+    "output_file": "risk_factors\\SPCE_risk_factors.txt",
+    "risk_factors_chars": 141402,
+    "error": null
+  },
+  {
+    "company": "Planet Labs",
+    "ticker": "PL",
+    "status": "ok",
+    "filing_date": "2026-03-23",
+    "accession_number": "0001193125-26-119957",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1836833/000119312526119957/pl-20260131.htm",
+    "output_file": "risk_factors\\PL_risk_factors.txt",
+    "risk_factors_chars": 224203,
+    "error": null
+  },
+  {
+    "company": "Spire Global",
+    "ticker": "SPIR",
+    "status": "ok",
+    "filing_date": "2026-03-19",
+    "accession_number": "0001193125-26-116169",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1816017/000119312526116169/spir-20251231.htm",
+    "output_file": "risk_factors\\SPIR_risk_factors.txt",
+    "risk_factors_chars": 43422,
+    "error": null
+  },
+  {
+    "company": "Momentus",
+    "ticker": "MNTS",
+    "status": "ok",
+    "filing_date": "2026-03-31",
+    "accession_number": "0001628280-26-022291",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1781162/000162828026022291/mnts-20251231.htm",
+    "output_file": "risk_factors\\MNTS_risk_factors.txt",
+    "risk_factors_chars": 126660,
+    "error": null
+  },
+  {
+    "company": "Lockheed Martin",
+    "ticker": "LMT",
+    "status": "ok",
+    "filing_date": "2026-01-29",
+    "accession_number": "0001628280-26-004195",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/936468/000162828026004195/lmt-20251231.htm",
+    "output_file": "risk_factors\\LMT_risk_factors.txt",
+    "risk_factors_chars": 284269,
+    "error": null
+  },
+  {
+    "company": "Northrop Grumman",
+    "ticker": "NOC",
+    "status": "ok",
+    "filing_date": "2026-01-27",
+    "accession_number": "0001133421-26-000003",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/1133421/000113342126000003/noc-20251231.htm",
+    "output_file": "risk_factors\\NOC_risk_factors.txt",
+    "risk_factors_chars": 75823,
+    "error": null
+  },
+  {
+    "company": "L3Harris Technologies",
+    "ticker": "LHX",
+    "status": "ok",
+    "filing_date": "2026-02-12",
+    "accession_number": "0000202058-26-000015",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000015/hrs-20260102.htm",
+    "output_file": "risk_factors\\LHX_risk_factors.txt",
+    "risk_factors_chars": 259322,
+    "error": null
+  },
+  {
+    "company": "Boeing",
+    "ticker": "BA",
+    "status": "ok",
+    "filing_date": "2026-01-30",
+    "accession_number": "0001628280-26-004357",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm",
+    "output_file": "risk_factors\\BA_risk_factors.txt",
+    "risk_factors_chars": 246477,
+    "error": null
+  },
+  {
+    "company": "Raytheon Technologies",
+    "ticker": "RTX",
+    "status": "ok",
+    "filing_date": "2026-02-06",
+    "accession_number": "0000101829-26-000006",
+    "doc_url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm",
+    "output_file": "risk_factors\\RTX_risk_factors.txt",
+    "risk_factors_chars": 98758,
+    "error": null
+  },
+  {
+    "company": "Aerojet Rocketdyne",
+    "ticker": "AJRD",
+    "status": "failed",
+    "filing_date": null,
+    "accession_number": null,
+    "doc_url": null,
+    "output_file": null,
+    "risk_factors_chars": 0,
+    "error": "CIK not found"
+  },
+  {
+    "company": "Maxar Technologies",
+    "ticker": "MAXR",
+    "status": "failed",
+    "filing_date": null,
+    "accession_number": null,
+    "doc_url": null,
+    "output_file": null,
+    "risk_factors_chars": 0,
+    "error": "CIK not found"
+  },
+  {
+    "company": "Mynaric AG",
+    "ticker": "MYNA",
+    "status": "failed",
+    "filing_date": null,
+    "accession_number": null,
+    "doc_url": null,
+    "output_file": null,
+    "risk_factors_chars": 0,
+    "error": "CIK not found"
+  }
+]
