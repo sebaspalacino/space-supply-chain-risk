@@ -211,24 +211,41 @@ with tab1:
         index="company_short", columns="risk_category",
         values="severity_score", aggfunc=agg_fn,
     ).round(2)
-    pivot = pivot.loc[pivot.sum(axis=1).sort_values(ascending=False).index]
+    pivot = pivot.loc[pivot.sum(axis=1, skipna=True).sort_values(ascending=False).index]
+
+    # Build text and z arrays — NaN cells show "—" and get z=0 (neutral color)
+    text_vals = pivot.copy().astype(object)
+    z_vals    = pivot.copy()
+    for col in pivot.columns:
+        for idx in pivot.index:
+            if pd.isna(pivot.loc[idx, col]):
+                text_vals.loc[idx, col] = "—"
+                z_vals.loc[idx, col]    = 0
+            else:
+                text_vals.loc[idx, col] = str(round(pivot.loc[idx, col], 1))
+    z_vals = z_vals.fillna(0)
 
     fig_heat = go.Figure(go.Heatmap(
-        z=pivot.values,
+        z=z_vals.values,
         x=[c.replace(" & ", " &\n") for c in pivot.columns],
         y=pivot.index,
         colorscale=[
-            [0.0, "#111827"], [0.25, "#1e3a5f"],
-            [0.5, "#1d4ed8"], [0.75, "#f97316"], [1.0, "#ef4444"],
+            [0.0,  "#1e2d45"],
+            [0.01, "#111827"],
+            [0.25, "#1e3a5f"],
+            [0.5,  "#1d4ed8"],
+            [0.75, "#f97316"],
+            [1.0,  "#ef4444"],
         ],
+        zmin=0, zmax=5,
         hoverongaps=False,
-        hovertemplate="<b>%{y}</b><br>%{x}<br>Value: %{z:.2f}<extra></extra>",
+        hovertemplate="<b>%{y}</b><br>%{x}<br>Value: %{text}<extra></extra>",
         colorbar=dict(
             title=dict(text="Score", font=dict(color="#64748b", size=11)),
             tickfont=dict(color="#64748b"),
             bgcolor="#111827", bordercolor="#1e2d45",
         ),
-        text=pivot.values.round(1),
+        text=text_vals.values,
         texttemplate="%{text}",
         textfont=dict(size=11, color="white"),
     ))
